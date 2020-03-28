@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/greengrape"
+    },
+    {
+      "tag": "forge:fruits/greengrape"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:greengrapejuiceitem",
+	"count": 1}
+	
+}

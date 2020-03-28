@@ -1,0 +1,13 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:nutbutters/almondbutter",
+"#forge:nutbutters/cashewbutter",
+"#forge:nutbutters/chestnutbutter",
+"#forge:nutbutters/hazelnutbutter",
+"#forge:nutbutters/peanutbutter",
+"#forge:nutbutters/pecanbutter",
+"#forge:nutbutters/pistachiobutter",
+"#forge:nutbutters/walnutbutter"
+	]
+}

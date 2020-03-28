@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/fig"
+    },
+    {
+      "tag": "forge:fruits/fig"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:figjuiceitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:fruits/peach"
+    },
+    {
+      "tag": "forge:sugar"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:peachjellyitem",
+	"count": 1}
+	
+}

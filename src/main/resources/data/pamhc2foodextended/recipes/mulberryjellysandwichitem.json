@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/mulberryjelly"
+    },{"tag": "forge:bread"},{"tag": "forge:nutbutters"}
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mulberryjellysandwichitem",
+	"count": 1}
+	
+}

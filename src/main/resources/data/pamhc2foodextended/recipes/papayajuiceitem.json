@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/papaya"
+    },
+    {
+      "tag": "forge:fruits/papaya"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:papayajuiceitem",
+	"count": 1}
+	
+}

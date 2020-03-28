@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/chesnut"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chestnutbutteritem",
+	"count": 1}
+	
+}

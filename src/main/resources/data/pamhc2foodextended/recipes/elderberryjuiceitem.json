@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/elderberry"
+    },
+    {
+      "tag": "forge:fruits/elderberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:elderberryjuiceitem",
+	"count": 1}
+	
+}

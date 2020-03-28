@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_roller"
+    },
+    {
+      "tag": "forge:mushrooms"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mushroomoilitem",
+	"count": 1}
+	
+}

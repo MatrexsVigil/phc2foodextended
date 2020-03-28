@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/cranberry"
+    },
+    {
+      "tag": "forge:fruits/cranberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:candleberryjuiceitem",
+	"count": 1}
+	
+}

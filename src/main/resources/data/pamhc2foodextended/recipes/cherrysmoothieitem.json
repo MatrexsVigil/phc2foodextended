@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/cherry"
+    },
+    {
+      "tag": "forge:ices"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cherrysmoothieitem",
+	"count": 1}
+	
+}

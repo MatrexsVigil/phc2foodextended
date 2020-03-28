@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/cucumber"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:relishitem",
+	"count": 1}
+	
+}

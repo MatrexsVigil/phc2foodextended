@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/lime"
+    },
+    {
+      "tag": "forge:fruits/lime"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:limejuiceitem",
+	"count": 1}
+	
+}

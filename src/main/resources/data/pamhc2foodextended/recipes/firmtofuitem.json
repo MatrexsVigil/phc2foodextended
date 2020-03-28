@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_roller"
+    },
+    {
+      "item": "pamhc2foodextended:silkentofuitem"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:firmtofuitem",
+	"count": 1}
+	
+}

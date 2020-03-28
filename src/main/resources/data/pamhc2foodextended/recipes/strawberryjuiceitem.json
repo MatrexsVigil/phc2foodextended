@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/strawberries"
+    },
+    {
+      "tag": "forge:fruits/strawberries"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:strawberryjuiceitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/soursop"
+    },
+    {
+      "tag": "forge:fruits/soursop"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:soursopjuiceitem",
+	"count": 1}
+	
+}

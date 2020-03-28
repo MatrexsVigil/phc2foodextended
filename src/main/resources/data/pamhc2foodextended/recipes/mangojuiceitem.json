@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/mango"
+    },
+    {
+      "tag": "forge:fruits/mango"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mangojuiceitem",
+	"count": 1}
+	
+}

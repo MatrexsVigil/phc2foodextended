@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/pomegranate"
+    },
+    {
+      "tag": "forge:fruits/pomegranate"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pomegranatejuiceitem",
+	"count": 1}
+	
+}

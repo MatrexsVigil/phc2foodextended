@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/juniperberry"
+    },
+    {
+      "tag": "forge:fruits/juniperberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:juniperberryjuiceitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/grapefruit"
+    },
+    {
+      "tag": "forge:ices"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:grapefruitsmoothieitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/blackberries"
+    },
+    {
+      "tag": "forge:fruits/blackberries"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:blackberryjuiceitem",
+	"count": 1}
+	
+}

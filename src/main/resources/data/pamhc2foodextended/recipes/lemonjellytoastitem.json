@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/lemonjelly"
+    },
+    {
+      "tag": "forge:toast"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lemonjellytoastitem",
+	"count": 1}
+	
+}

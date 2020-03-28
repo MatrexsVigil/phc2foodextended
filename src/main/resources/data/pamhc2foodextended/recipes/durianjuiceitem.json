@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/durian"
+    },
+    {
+      "tag": "forge:fruits/durian"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:durianjuiceitem",
+	"count": 1}
+	
+}

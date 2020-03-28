@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/persmimmon"
+    },
+    {
+      "tag": "forge:fruits/persmimmon"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:persimmonjuiceitem",
+	"count": 1}
+	
+}

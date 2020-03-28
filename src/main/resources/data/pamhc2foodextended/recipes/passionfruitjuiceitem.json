@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/passionfruit"
+    },
+    {
+      "tag": "forge:fruits/passionfruit"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:passionfruitjuiceitem",
+	"count": 1}
+	
+}

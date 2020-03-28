@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/pistachio"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pistachiobutteritem",
+	"count": 1}
+	
+}

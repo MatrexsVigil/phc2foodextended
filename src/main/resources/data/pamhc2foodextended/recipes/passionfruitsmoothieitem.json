@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/passionfruit"
+    },
+    {
+      "tag": "forge:ices"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:passionfruitsmoothieitem",
+	"count": 1}
+	
+}

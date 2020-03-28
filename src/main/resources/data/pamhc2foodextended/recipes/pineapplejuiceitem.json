@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/pineapple"
+    },
+    {
+      "tag": "forge:fruits/pineapple"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pineapplejuiceitem",
+	"count": 1}
+	
+}

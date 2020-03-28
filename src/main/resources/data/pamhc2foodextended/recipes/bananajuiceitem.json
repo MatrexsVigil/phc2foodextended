@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    },
+    {
+      "tag": "forge:fruits/banana"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bananajuiceitem",
+	"count": 1}
+	
+}

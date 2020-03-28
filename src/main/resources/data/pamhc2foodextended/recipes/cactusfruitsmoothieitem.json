@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:fruits/cactus_fruit"
+    },
+    {
+      "tag": "forge:ices"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cactusfruitsmoothieitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/lychee"
+    },
+    {
+      "tag": "forge:fruits/lychee"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lycheejuiceitem",
+	"count": 1}
+	
+}

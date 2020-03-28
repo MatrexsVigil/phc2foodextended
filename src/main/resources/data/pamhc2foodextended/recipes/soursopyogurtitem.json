@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:fruits/soursop"
+    },
+    {
+      "tag": "forge:yogurt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:soursopyogurtitem",
+	"count": 1}
+	
+}

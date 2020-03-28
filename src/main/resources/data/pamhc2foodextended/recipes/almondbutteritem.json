@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:crops/almond"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:almondbutteritem",
+	"count": 1}
+	
+}

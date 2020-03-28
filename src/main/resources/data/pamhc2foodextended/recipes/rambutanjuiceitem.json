@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/rambutan"
+    },
+    {
+      "tag": "forge:fruits/rambutan"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:rambutanjuiceitem",
+	"count": 1}
+	
+}

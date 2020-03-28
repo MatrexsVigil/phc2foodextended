@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:fruits/kiwi"
+    },
+    {
+      "tag": "forge:yogurt"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:kiwiyogurtitem",
+	"count": 1}
+	
+}

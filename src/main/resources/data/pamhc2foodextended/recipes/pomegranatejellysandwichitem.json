@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/pomegranatejelly"
+    },{"tag": "forge:bread"},{"tag": "forge:nutbutters"}
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pomegranatejellysandwichitem",
+	"count": 1}
+	
+}

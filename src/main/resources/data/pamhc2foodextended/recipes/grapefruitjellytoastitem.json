@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/grapefruitjelly"
+    },
+    {
+      "tag": "forge:toast"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:grapefruitjellytoastitem",
+	"count": 1}
+	
+}

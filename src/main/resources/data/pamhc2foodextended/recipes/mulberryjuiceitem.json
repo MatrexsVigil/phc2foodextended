@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/mulberry"
+    },
+    {
+      "tag": "forge:fruits/mulberry"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:mulberryjuiceitem",
+	"count": 1}
+	
+}

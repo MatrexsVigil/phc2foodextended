@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/peachjelly"
+    },
+    {
+      "tag": "forge:toast"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:peachjellytoastitem",
+	"count": 1}
+	
+}

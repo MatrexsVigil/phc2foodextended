@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/dragonfruit"
+    },
+    {
+      "tag": "forge:fruits/dragonfruit"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:dragonfruitjuiceitem",
+	"count": 1}
+	
+}

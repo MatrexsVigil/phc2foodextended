@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:jellies/passionfruitjelly"
+    },{"tag": "forge:bread"},{"tag": "forge:nutbutters"}
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:passionfruitjellysandwichitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_juicer"
+    },
+    {
+      "tag": "forge:fruits/plum"
+    },
+    {
+      "tag": "forge:fruits/plum"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:plumjuiceitem",
+	"count": 1}
+	
+}

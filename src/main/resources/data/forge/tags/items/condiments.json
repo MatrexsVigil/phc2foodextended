@@ -1,0 +1,12 @@
+{
+		"replace": false,
+		"values": [
+			"#forge:condiments/hotsauce",
+"#forge:condiments/ketchup",
+"#forge:condiments/mushroomoil",
+"#forge:condiments/mustard",
+"#forge:condiments/relish",
+"#forge:condiments/saltandpepper",
+"#forge:condiments/sesameoil"
+	]
+}
