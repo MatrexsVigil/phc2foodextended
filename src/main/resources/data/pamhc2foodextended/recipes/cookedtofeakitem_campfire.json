@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"ingredient": {"item": "pamhc2foodextended:rawtofeakitem"},
+	"result": "pamhc2foodextended:cookedtofeakitem",
+	"experience": 0.35,
+	"cookingtime": 600
+
+}

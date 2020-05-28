@@ -1,6 +1,7 @@
 {
 		"replace": false,
 		"values": [
+"#forge:condiments/bbqsauce",
 			"#forge:condiments/hotsauce",
 "#forge:condiments/ketchup",
 "#forge:condiments/mushroomoil",

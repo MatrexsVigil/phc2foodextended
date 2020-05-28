@@ -46,7 +46,21 @@ public class ItemRegistry {
 	public static Item pecanbutteritem;
 	public static Item pistachiobutteritem;
 	public static Item walnutbutteritem;
-
+	
+//Tofu Meats
+	public static Item rawtofabbititem;
+	public static Item rawtofaconitem;
+	public static Item rawtofeakitem;
+	public static Item rawtofickenitem;
+	public static Item rawtofishitem;
+	public static Item rawtofuttonitem;
+	
+	public static Item cookedtofabbititem;
+	public static Item cookedtofaconitem;
+	public static Item cookedtofeakitem;
+	public static Item cookedtofickenitem;
+	public static Item cookedtofishitem;
+	public static Item cookedtofuttonitem;
 	
 //JUICES
 //crops
@@ -482,6 +496,21 @@ public static Item limejellysandwichitem;
 	pecanbutteritem = register("pecanbutteritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pecanbutteritem)));
 	pistachiobutteritem = register("pistachiobutteritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pistachiobutteritem)));
 	walnutbutteritem = register("walnutbutteritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.walnutbutteritem)));
+	
+//Tofu Meats
+	rawtofabbititem = register("rawtofabbititem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofabbititem)));
+	rawtofaconitem = register("rawtofaconitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofaconitem)));
+	rawtofeakitem = register("rawtofeakitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofeakitem)));
+	rawtofickenitem = register("rawtofickenitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofickenitem)));
+	rawtofishitem = register("rawtofishitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofishitem)));
+	rawtofuttonitem = register("rawtofuttonitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rawtofuttonitem)));
+	
+	cookedtofabbititem = register("cookedtofabbititem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofabbititem)));
+	cookedtofaconitem = register("cookedtofaconitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofaconitem)));
+	cookedtofeakitem = register("cookedtofeakitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofeakitem)));
+	cookedtofickenitem = register("cookedtofickenitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofickenitem)));
+	cookedtofishitem = register("cookedtofishitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofishitem)));
+	cookedtofuttonitem = register("cookedtofuttonitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofuttonitem)));
 
 //JUICES
 //crops

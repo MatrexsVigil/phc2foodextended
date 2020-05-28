@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {"item": "pamhc2foodextended:rawtofabbititem"},
+	"result": "pamhc2foodextended:cookedtofabbititem",
+	"experience": 0.35,
+	"cookingtime": 200
+
+}

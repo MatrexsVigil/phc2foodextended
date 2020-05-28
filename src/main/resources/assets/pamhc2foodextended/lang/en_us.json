@@ -44,6 +44,56 @@
 "item.pamhc2foodextended.pistachiobutteritem": "Pistachio Butter",
 "item.pamhc2foodextended.walnutbutteritem": "Walnut Butter",
 
+//Tofu Meats
+"item.pamhc2foodextended.rawtofabbititem": "Raw Tofabbit",
+"item.pamhc2foodextended.rawtofaconitem": "Raw Tofacon",
+"item.pamhc2foodextended.rawtofeakitem": "Raw Tofeak",
+"item.pamhc2foodextended.rawtofickenitem": "Raw Toficken",
+"item.pamhc2foodextended.rawtofishitem": "Raw Tofish",
+"item.pamhc2foodextended.rawtofuttonitem": "Raw Tofutton",
+
+"item.pamhc2foodextended.cookedtofabbititem": "Cooked Tofabbit",
+"item.pamhc2foodextended.cookedtofaconitem": "Cooked Tofacon",
+"item.pamhc2foodextended.cookedtofeakitem": "Cooked Tofeak",
+"item.pamhc2foodextended.cookedtofickenitem": "Cooked Toficken",
+"item.pamhc2foodextended.cookedtofishitem": "Cooked Tofish",
+"item.pamhc2foodextended.cookedtofuttonitem": "Cooked Tofutton",
+
+
+//Taco Italian Update
+"item.pamhc2foodextended.anchovypepperonipizzaitem": "Anchovy Pepperoni Pizza",
+"item.pamhc2foodextended.bbqsauceitem": "BBQ Sauce",
+"item.pamhc2foodextended.bbqchickenpizzaitem": "BBQ Chicken Pizza",
+"item.pamhc2foodextended.beansandriceitem": "Beans and Rice",
+"item.pamhc2foodextended.chimichangaitem": "Chimichanga",
+"item.pamhc2foodextended.chipsandsalsaitem": "Chips and Salsa",
+"item.pamhc2foodextended.cornmealitem": "Cornmeal",
+"item.pamhc2foodextended.deluxenachoesitem": "Deluxe Nachoes",
+"item.pamhc2foodextended.enchiladaitem": "Enchilada",
+"item.pamhc2foodextended.fiestacornsaladitem": "Fiesta Corn Salad",
+"item.pamhc2foodextended.fishtacoitem": "Fish Taco",
+"item.pamhc2foodextended.garlicbreaditem": "Garlic Bread",
+"item.pamhc2foodextended.garlicchickenitem": "Garlic Chicken",
+"item.pamhc2foodextended.garlicmashedpotatoesitem": "Garlic Mashed Potatoes",
+"item.pamhc2foodextended.hamandpineapplepizzaitem": "Ham and Pinapple Pizza",
+"item.pamhc2foodextended.meatfeastpizzaitem": "Meat Feast Pizza",
+"item.pamhc2foodextended.nachoesitem": "Nachoes",
+"item.pamhc2foodextended.pepperoniitem": "Pepperoni",
+"item.pamhc2foodextended.pepperonipizzaitem": "Pepperoni Pizza",
+"item.pamhc2foodextended.pizzasliceitem": "Pizza Slice",
+"item.pamhc2foodextended.quesadillaitem": "Quesadilla",
+"item.pamhc2foodextended.refriedbeansitem": "Refried Beans",
+"item.pamhc2foodextended.sausageitem": "Sausage",
+"item.pamhc2foodextended.salsaitem": "Salsa",
+"item.pamhc2foodextended.spagettiandmeatballsitem": "Spagetti and Meatballs",
+"item.pamhc2foodextended.spagettiitem": "Spagetti",
+"item.pamhc2foodextended.spaghettidinneritem": "Spagetti Dinner",
+"item.pamhc2foodextended.stuffedchilipeppersitem": "Stuffed Chili Peppers",
+"item.pamhc2foodextended.supremepizzaitem": "Supreme Pizza",
+"item.pamhc2foodextended.tacoitem": "Taco",
+"item.pamhc2foodextended.tortillachipsitem": "Torilla Chips",
+"item.pamhc2foodextended.tortillaitem": "Tortilla",
+
 //JUICES
 //crops
 //berry 2

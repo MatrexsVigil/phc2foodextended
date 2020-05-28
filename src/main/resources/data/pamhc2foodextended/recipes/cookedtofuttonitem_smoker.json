@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:smoking",
+	"ingredient": {"item": "pamhc2foodextended:rawtofuttonitem"},
+	"result": "pamhc2foodextended:cookedtofuttonitem",
+	"experience": 0.35,
+	"cookingtime": 100
+
+}

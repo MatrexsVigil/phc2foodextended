@@ -1,6 +1,7 @@
 package pam.pamhc2foodextended.init;
 
 import net.minecraft.item.Food;
+import net.minecraft.item.Item;
 
 public class FoodBuilderRegistry {
 //crops;
@@ -41,7 +42,23 @@ public class FoodBuilderRegistry {
 	public static final Food pecanbutteritem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
 	public static final Food pistachiobutteritem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
 	public static final Food walnutbutteritem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
+	
+	//Tofu Meats
+	
+	public static final Food rawtofabbititem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rawtofaconitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rawtofeakitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rawtofickenitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rawtofishitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rawtofuttonitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
 
+	public static final Food cookedtofabbititem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cookedtofaconitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cookedtofeakitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cookedtofickenitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cookedtofishitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cookedtofuttonitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	
 	//juice
 	//crops
 	//berry 2

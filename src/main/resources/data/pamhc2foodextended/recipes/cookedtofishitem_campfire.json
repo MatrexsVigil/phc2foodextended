@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"ingredient": {"item": "pamhc2foodextended:rawtofishitem"},
+	"result": "pamhc2foodextended:cookedtofishitem",
+	"experience": 0.35,
+	"cookingtime": 600
+
+}

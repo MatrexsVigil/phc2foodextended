@@ -1,6 +1,11 @@
 {
 	"replace": false,
 	"values": [
-"#forge:rawmeats/firmtofu"
+"#forge:rawmeats/rawtofabbititem",
+"#forge:rawmeats/rawtofaconitem",
+"#forge:rawmeats/rawtofeakitem",
+"#forge:rawmeats/rawtofickenitem",
+"#forge:rawmeats/rawtofishitem",
+"#forge:rawmeats/rawtofuttonitem"
 	]
 }

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:campfire_cooking",
+	"ingredient": {"item": "pamhc2foodextended:rawtofickenitem"},
+	"result": "pamhc2foodextended:cookedtofickenitem",
+	"experience": 0.35,
+	"cookingtime": 600
+
+}
