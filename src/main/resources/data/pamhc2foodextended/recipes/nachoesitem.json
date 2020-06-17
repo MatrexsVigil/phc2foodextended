@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:tortillachips"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:nachoesitem",
+	"count": 1}
+	
+}

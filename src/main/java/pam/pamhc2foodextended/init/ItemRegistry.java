@@ -62,6 +62,41 @@ public class ItemRegistry {
 	public static Item cookedtofishitem;
 	public static Item cookedtofuttonitem;
 	
+//Food
+	
+	public static Item anchovypepperonipizzaitem;
+	public static Item bbqsauceitem;
+	public static Item bbqchickenpizzaitem;
+	public static Item beansandriceitem;
+	public static Item chimichangaitem;
+	public static Item chipsandsalsaitem;
+	public static Item cornmealitem;
+	public static Item deluxenachoesitem;
+	public static Item enchiladaitem;
+	public static Item fiestacornsaladitem;
+	public static Item fishtacoitem;
+	public static Item garlicbreaditem;
+	public static Item garlicchickenitem;
+	public static Item garlicmashedpotatoesitem;
+	public static Item hamandpineapplepizzaitem;
+	public static Item meatfeastpizzaitem;
+	public static Item nachoesitem;
+	public static Item pepperoniitem;
+	public static Item pepperonipizzaitem;
+	public static Item pizzasliceitem;
+	public static Item quesadillaitem;
+	public static Item refriedbeansitem;
+	public static Item salsaitem;
+	public static Item sausageitem;
+	public static Item spagettiandmeatballsitem;
+	public static Item spagettiitem;
+	public static Item spaghettidinneritem;
+	public static Item stuffedchilipeppersitem;
+	public static Item supremepizzaitem;
+	public static Item tacoitem;
+	public static Item tortillachipsitem;
+	public static Item tortillaitem;
+	
 //JUICES
 //crops
 //berry 2
@@ -511,6 +546,40 @@ public static Item limejellysandwichitem;
 	cookedtofickenitem = register("cookedtofickenitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofickenitem)));
 	cookedtofishitem = register("cookedtofishitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofishitem)));
 	cookedtofuttonitem = register("cookedtofuttonitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cookedtofuttonitem)));
+	
+//Food
+	anchovypepperonipizzaitem = register("anchovypepperonipizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.anchovypepperonipizzaitem)));
+	bbqsauceitem = register("bbqsauceitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.bbqsauceitem)));
+	bbqchickenpizzaitem = register("bbqchickenpizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.bbqchickenpizzaitem)));
+	beansandriceitem = register("beansandriceitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.beansandriceitem)));
+	chimichangaitem = register("chimichangaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chimichangaitem)));
+	chipsandsalsaitem = register("chipsandsalsaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chipsandsalsaitem)));
+	cornmealitem = register("cornmealitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cornmealitem)));
+	deluxenachoesitem = register("deluxenachoesitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.deluxenachoesitem)));
+	enchiladaitem = register("enchiladaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.enchiladaitem)));
+	fiestacornsaladitem = register("fiestacornsaladitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.fiestacornsaladitem)));
+	fishtacoitem = register("fishtacoitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.fishtacoitem)));
+	garlicbreaditem = register("garlicbreaditem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.garlicbreaditem)));
+	garlicchickenitem = register("garlicchickenitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.garlicchickenitem)));
+	garlicmashedpotatoesitem = register("garlicmashedpotatoesitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.garlicmashedpotatoesitem)));
+	hamandpineapplepizzaitem = register("hamandpineapplepizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.hamandpineapplepizzaitem)));
+	meatfeastpizzaitem = register("meatfeastpizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.meatfeastpizzaitem)));
+	nachoesitem = register("nachoesitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.nachoesitem)));
+	pepperoniitem = register("pepperoniitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pepperoniitem)));
+	pepperonipizzaitem = register("pepperonipizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pepperonipizzaitem)));
+	pizzasliceitem = register("pizzasliceitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pizzasliceitem)));
+	quesadillaitem = register("quesadillaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.quesadillaitem)));
+	refriedbeansitem = register("refriedbeansitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.refriedbeansitem)));
+	salsaitem = register("salsaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.salsaitem)));
+	sausageitem = register("sausageitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.sausageitem)));
+	spagettiandmeatballsitem = register("spagettiandmeatballsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.spagettiandmeatballsitem)));
+	spagettiitem = register("spagettiitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.spagettiitem)));
+	spaghettidinneritem = register("spaghettidinneritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.spaghettidinneritem)));
+	stuffedchilipeppersitem = register("stuffedchilipeppersitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.stuffedchilipeppersitem)));
+	supremepizzaitem = register("supremepizzaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.supremepizzaitem)));
+	tacoitem = register("tacoitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tacoitem)));
+	tortillachipsitem = register("tortillachipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tortillachipsitem)));
+	tortillaitem = register("tortillaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tortillaitem)));
 
 //JUICES
 //crops

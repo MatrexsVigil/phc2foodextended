@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:crops/lime"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:salsaitem",
+	"count": 1}
+	
+}

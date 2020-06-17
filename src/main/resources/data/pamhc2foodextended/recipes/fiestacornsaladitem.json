@@ -1,0 +1,37 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "tag": "forge:crops/soybean"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:crops/lime"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:crops/chilipepper"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fiestacornsaladitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_grinder"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pepperoniitem",
+	"count": 1}
+	
+}

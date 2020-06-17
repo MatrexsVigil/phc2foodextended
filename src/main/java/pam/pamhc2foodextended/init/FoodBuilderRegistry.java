@@ -59,6 +59,41 @@ public class FoodBuilderRegistry {
 	public static final Food cookedtofishitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
 	public static final Food cookedtofuttonitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
 	
+	//Food
+	
+	public static final Food anchovypepperonipizzaitem = (new Food.Builder()).hunger(17).saturation(1.2f).build();
+	public static final Food bbqsauceitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food bbqchickenpizzaitem = (new Food.Builder()).hunger(11).saturation(1.2f).build();
+	public static final Food beansandriceitem = (new Food.Builder()).hunger(9).saturation(1.2f).build();
+	public static final Food chimichangaitem = (new Food.Builder()).hunger(29).saturation(1.2f).build();
+	public static final Food chipsandsalsaitem = (new Food.Builder()).hunger(17).saturation(1.2f).build();
+	public static final Food cornmealitem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
+	public static final Food deluxenachoesitem = (new Food.Builder()).hunger(30).saturation(1.2f).build();
+	public static final Food enchiladaitem = (new Food.Builder()).hunger(20).saturation(1.2f).build();
+	public static final Food fiestacornsaladitem = (new Food.Builder()).hunger(12).saturation(1.2f).build();
+	public static final Food fishtacoitem = (new Food.Builder()).hunger(14).saturation(1.2f).build();
+	public static final Food garlicbreaditem = (new Food.Builder()).hunger(10).saturation(1.2f).build();
+	public static final Food garlicchickenitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food garlicmashedpotatoesitem = (new Food.Builder()).hunger(12).saturation(1.2f).build();
+	public static final Food hamandpineapplepizzaitem = (new Food.Builder()).hunger(17).saturation(1.2f).build();
+	public static final Food meatfeastpizzaitem = (new Food.Builder()).hunger(27).saturation(1.2f).build();
+	public static final Food nachoesitem = (new Food.Builder()).hunger(13).saturation(1.2f).build();
+	public static final Food pepperoniitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food pepperonipizzaitem = (new Food.Builder()).hunger(16).saturation(1.2f).build();
+	public static final Food pizzasliceitem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
+	public static final Food quesadillaitem = (new Food.Builder()).hunger(9).saturation(1.2f).build();
+	public static final Food refriedbeansitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food salsaitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food sausageitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food spagettiandmeatballsitem = (new Food.Builder()).hunger(12).saturation(1.2f).build();
+	public static final Food spagettiitem = (new Food.Builder()).hunger(9).saturation(1.2f).build();
+	public static final Food spaghettidinneritem = (new Food.Builder()).hunger(25).saturation(1.2f).build();
+	public static final Food stuffedchilipeppersitem = (new Food.Builder()).hunger(13).saturation(1.2f).build();
+	public static final Food supremepizzaitem = (new Food.Builder()).hunger(21).saturation(1.2f).build();
+	public static final Food tacoitem = (new Food.Builder()).hunger(15).saturation(1.2f).build();
+	public static final Food tortillachipsitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food tortillaitem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
+	
 	//juice
 	//crops
 	//berry 2

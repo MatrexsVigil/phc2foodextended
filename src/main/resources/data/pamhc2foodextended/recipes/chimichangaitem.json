@@ -1,0 +1,40 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:rawbeef"
+    },
+    {
+      "tag": "forge:crops/lettuce"
+    },
+    {
+      "tag": "forge:tortilla"
+    },
+    {
+      "tag": "forge:crops/rice"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:salsa"
+    },
+    {
+      "tag": "forge:cream"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chimichangaitem",
+	"count": 1}
+	
+}

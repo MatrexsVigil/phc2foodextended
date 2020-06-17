@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:pasta"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    },
+    {
+      "tag": "forge:rawbeef"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:spagettiandmeatballsitem",
+	"count": 1}
+	
+}

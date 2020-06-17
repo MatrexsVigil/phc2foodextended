@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:crops/garlic"
+    },
+    {
+      "tag": "forge:toast"
+    },
+    {
+      "tag": "forge:butter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:garlicbreaditem",
+	"count": 1}
+	
+}

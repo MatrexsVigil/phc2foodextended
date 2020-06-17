@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:rawpork"
+    },
+    {
+      "tag": "forge:crops/pineapple"
+    },
+    {
+      "tag": "forge:cheese"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:hamandpineapplepizzaitem",
+	"count": 1}
+	
+}

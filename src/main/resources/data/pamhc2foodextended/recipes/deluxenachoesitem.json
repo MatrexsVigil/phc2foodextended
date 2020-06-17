@@ -1,0 +1,34 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:tortillachips"
+    },
+    {
+      "tag": "forge:salsa"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:rawmeats"
+    },
+    {
+      "tag": "forge:crops/chilipepper"
+    },
+    {
+      "tag": "forge:cream"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:deluxenachoesitem",
+	"count": 1}
+	
+}

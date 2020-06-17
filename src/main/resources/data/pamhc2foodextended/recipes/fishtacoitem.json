@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:rawfish"
+    },
+    {
+      "tag": "forge:crops/lettuce"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:tortilla"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:fishtacoitem",
+	"count": 1}
+	
+}

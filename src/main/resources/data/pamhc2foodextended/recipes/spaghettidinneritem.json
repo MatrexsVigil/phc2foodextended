@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "item": "pamhc2foodextended:spagettiandmeatballsitem"
+    },
+    {
+      "item": "pamhc2foodextended:garlicbreaditem"
+    },
+    {
+      "tag": "forge:milk"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:spaghettidinneritem",
+	"count": 1}
+	
+}

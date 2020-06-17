@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:crops/bean"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:butter"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:refriedbeansitem",
+	"count": 1}
+	
+}

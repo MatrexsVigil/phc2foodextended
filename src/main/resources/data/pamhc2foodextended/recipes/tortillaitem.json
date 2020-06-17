@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_skillet"
+    },
+    {
+      "tag": "forge:cornmeal"
+    },
+    {
+      "tag": "forge:water"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:tortillaitem",
+	"count": 1}
+	
+}

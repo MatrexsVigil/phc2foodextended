@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:rawchicken"
+    },
+    {
+      "tag": "forge:condiments/bbqsauce"
+    },
+    {
+      "tag": "forge:crops/onion"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:dough"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bbqchickenpizzaitem",
+	"count": 1}
+	
+}

@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_cuttingboard"
+    },
+    {
+      "tag": "forge:tortilla"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:crops/lime"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:tortillachipsitem",
+	"count": 1}
+	
+}

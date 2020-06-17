@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_bakeware"
+    },
+    {
+      "tag": "forge:dough"
+    },
+    {
+      "tag": "forge:crops/tomato"
+    },
+    {
+      "tag": "forge:cheese"
+    },
+    {
+      "tag": "forge:pepperoni"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:pepperonipizzaitem",
+	"count": 1}
+	
+}
