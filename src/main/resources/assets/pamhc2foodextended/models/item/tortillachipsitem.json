@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "pamhc2foodcore:item/tortillachipsitem"
+        "layer0": "pamhc2foodextended:item/tortillachipsitem"
     }
 }

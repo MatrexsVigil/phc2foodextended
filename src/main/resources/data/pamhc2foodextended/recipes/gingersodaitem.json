@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/ginger"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:gingersodaitem",
+	"count": 1}
+	
+}

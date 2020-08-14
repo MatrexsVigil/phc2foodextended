@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:energydrinkitem",
+	"count": 1}
+	
+}

@@ -94,6 +94,46 @@ public class FoodBuilderRegistry {
 	public static final Food tortillachipsitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
 	public static final Food tortillaitem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
 	
+	public static final Food bbqpotatochipsitem = (new Food.Builder()).hunger(9).saturation(1.2f).build();
+	public static final Food candiedgingeritem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food candiedlemonitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food candiedpecansitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food candiedsweetpotatoesitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food candiedwalnutsitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food cheddarandsourcreampotatochipsitem = (new Food.Builder()).hunger(11).saturation(1.2f).build();
+	public static final Food cherrysodaitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food chilichocolateitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food chipsanddipitem = (new Food.Builder()).hunger(10).saturation(1.2f).build();
+	public static final Food chocolatecherryitem = (new Food.Builder()).hunger(7).saturation(1.2f).build();
+	public static final Food chocolatecoconutbaritem = (new Food.Builder()).hunger(7).saturation(1.2f).build();
+	public static final Food chocolateorangeitem = (new Food.Builder()).hunger(7).saturation(1.2f).build();
+	public static final Food chocolatepeanutbaritem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
+	public static final Food chocolatestrawberryitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food colasodaitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food cornchipsitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food cottoncandyitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food crispyricepuffbarsitem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
+	public static final Food energydrinkitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food gingersodaitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food grapefruitsodaitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food grapesodaitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food hazelnutchocolateitem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
+	public static final Food lemonlimesodaitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food maplecandiedbaconitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food marzipanitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food orangesodaitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food peanutbuttercupitem = (new Food.Builder()).hunger(5).saturation(1.2f).build();
+	public static final Food peppermintitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food popcornitem = (new Food.Builder()).hunger(7).saturation(1.2f).build();
+	public static final Food pralinesitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food rootbeerfloatitem = (new Food.Builder()).hunger(10).saturation(1.2f).build();
+	public static final Food rootbeersodaitem = (new Food.Builder()).hunger(6).saturation(1.2f).build();
+	public static final Food sesamesnapsitem = (new Food.Builder()).hunger(3).saturation(1.2f).build();
+	public static final Food sourcreamandonionpotatochipsitem = (new Food.Builder()).hunger(8).saturation(1.2f).build();
+	public static final Food strawberrysodaitem = (new Food.Builder()).hunger(4).saturation(1.2f).build();
+	public static final Food theatreboxitem = (new Food.Builder()).hunger(15).saturation(1.2f).build();
+	public static final Food ediblerootitem = (new Food.Builder()).hunger(2).saturation(1.2f).build();
+	
 	//juice
 	//crops
 	//berry 2

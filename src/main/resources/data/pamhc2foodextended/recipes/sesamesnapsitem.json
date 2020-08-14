@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/sesameseeds"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:sesamesnapsitem",
+	"count": 1}
+	
+}

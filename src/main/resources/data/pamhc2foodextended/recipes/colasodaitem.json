@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/spiceleaf"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:colasodaitem",
+	"count": 1}
+	
+}

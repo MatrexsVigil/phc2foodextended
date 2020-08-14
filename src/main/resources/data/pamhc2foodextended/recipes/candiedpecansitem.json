@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/pecan"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:candiedpecansitem",
+	"count": 1}
+	
+}

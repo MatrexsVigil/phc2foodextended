@@ -97,6 +97,46 @@ public class ItemRegistry {
 	public static Item tortillachipsitem;
 	public static Item tortillaitem;
 	
+	public static Item bbqpotatochipsitem;
+	public static Item candiedgingeritem;
+	public static Item candiedlemonitem;
+	public static Item candiedpecansitem;
+	public static Item candiedsweetpotatoesitem;
+	public static Item candiedwalnutsitem;
+	public static Item cheddarandsourcreampotatochipsitem;
+	public static Item cherrysodaitem;
+	public static Item chilichocolateitem;
+	public static Item chipsanddipitem;
+	public static Item chocolatecherryitem;
+	public static Item chocolatecoconutbaritem;
+	public static Item chocolateorangeitem;
+	public static Item chocolatepeanutbaritem;
+	public static Item chocolatestrawberryitem;
+	public static Item colasodaitem;
+	public static Item cornchipsitem;
+	public static Item cottoncandyitem;
+	public static Item crispyricepuffbarsitem;
+	public static Item energydrinkitem;
+	public static Item gingersodaitem;
+	public static Item grapefruitsodaitem;
+	public static Item grapesodaitem;
+	public static Item hazelnutchocolateitem;
+	public static Item lemonlimesodaitem;
+	public static Item maplecandiedbaconitem;
+	public static Item marzipanitem;
+	public static Item orangesodaitem;
+	public static Item peanutbuttercupitem;
+	public static Item peppermintitem;
+	public static Item popcornitem;
+	public static Item pralinesitem;
+	public static Item rootbeerfloatitem;
+	public static Item rootbeersodaitem;
+	public static Item sesamesnapsitem;
+	public static Item sourcreamandonionpotatochipsitem;
+	public static Item strawberrysodaitem;
+	public static Item theatreboxitem;
+	public static Item ediblerootitem;
+	
 //JUICES
 //crops
 //berry 2
@@ -580,6 +620,46 @@ public static Item limejellysandwichitem;
 	tacoitem = register("tacoitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tacoitem)));
 	tortillachipsitem = register("tortillachipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tortillachipsitem)));
 	tortillaitem = register("tortillaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.tortillaitem)));
+	
+	bbqpotatochipsitem = register("bbqpotatochipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.bbqpotatochipsitem)));
+	candiedgingeritem = register("candiedgingeritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.candiedgingeritem)));
+	candiedlemonitem = register("candiedlemonitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.candiedlemonitem)));
+	candiedpecansitem = register("candiedpecansitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.candiedpecansitem)));
+	candiedsweetpotatoesitem = register("candiedsweetpotatoesitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.candiedsweetpotatoesitem)));
+	candiedwalnutsitem = register("candiedwalnutsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.candiedwalnutsitem)));
+	cheddarandsourcreampotatochipsitem = register("cheddarandsourcreampotatochipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cheddarandsourcreampotatochipsitem)));
+	cherrysodaitem = register("cherrysodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cherrysodaitem)));
+	chilichocolateitem = register("chilichocolateitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chilichocolateitem)));
+	chipsanddipitem = register("chipsanddipitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chipsanddipitem)));
+	chocolatecherryitem = register("chocolatecherryitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chocolatecherryitem)));
+	chocolatecoconutbaritem = register("chocolatecoconutbaritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chocolatecoconutbaritem)));
+	chocolateorangeitem = register("chocolateorangeitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chocolateorangeitem)));
+	chocolatepeanutbaritem = register("chocolatepeanutbaritem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chocolatepeanutbaritem)));
+	chocolatestrawberryitem = register("chocolatestrawberryitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.chocolatestrawberryitem)));
+	colasodaitem = register("colasodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.colasodaitem)));
+	cornchipsitem = register("cornchipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cornchipsitem)));
+	cottoncandyitem = register("cottoncandyitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.cottoncandyitem)));
+	crispyricepuffbarsitem = register("crispyricepuffbarsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.crispyricepuffbarsitem)));
+	energydrinkitem = register("energydrinkitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.energydrinkitem)));
+	gingersodaitem = register("gingersodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.gingersodaitem)));
+	grapefruitsodaitem = register("grapefruitsodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.grapefruitsodaitem)));
+	grapesodaitem = register("grapesodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.grapesodaitem)));
+	hazelnutchocolateitem = register("hazelnutchocolateitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.hazelnutchocolateitem)));
+	lemonlimesodaitem = register("lemonlimesodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.lemonlimesodaitem)));
+	maplecandiedbaconitem = register("maplecandiedbaconitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.maplecandiedbaconitem)));
+	marzipanitem = register("marzipanitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.marzipanitem)));
+	orangesodaitem = register("orangesodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.orangesodaitem)));
+	peanutbuttercupitem = register("peanutbuttercupitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.peanutbuttercupitem)));
+	peppermintitem = register("peppermintitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.peppermintitem)));
+	popcornitem = register("popcornitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.popcornitem)));
+	pralinesitem = register("pralinesitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.pralinesitem)));
+	rootbeerfloatitem = register("rootbeerfloatitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rootbeerfloatitem)));
+	rootbeersodaitem = register("rootbeersodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.rootbeersodaitem)));
+	sesamesnapsitem = register("sesamesnapsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.sesamesnapsitem)));
+	sourcreamandonionpotatochipsitem = register("sourcreamandonionpotatochipsitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.sourcreamandonionpotatochipsitem)));
+	strawberrysodaitem = register("strawberrysodaitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.strawberrysodaitem)));
+	theatreboxitem = register("theatreboxitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.theatreboxitem)));
+	ediblerootitem = register("ediblerootitem", new Item((new Item.Properties()).group(Pamhc2foodextended.ITEM_GROUP).food(FoodBuilderRegistry.ediblerootitem)));
 
 //JUICES
 //crops

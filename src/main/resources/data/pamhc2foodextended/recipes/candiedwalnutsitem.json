@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/walnut"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:candiedwalnutsitem",
+	"count": 1}
+	
+}

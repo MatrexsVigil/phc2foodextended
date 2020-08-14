@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:chocolatebar"
+    },
+    {
+      "tag": "forge:crops/coconut"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:chocolatecoconutbaritem",
+	"count": 1}
+	
+}

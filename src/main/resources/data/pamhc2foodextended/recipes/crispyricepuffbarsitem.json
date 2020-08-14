@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_saucepan"
+    },
+    {
+      "tag": "forge:marshmellows"
+    },
+    {
+      "tag": "forge:crops/rice"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:crispyricepuffbarsitem",
+	"count": 1}
+	
+}

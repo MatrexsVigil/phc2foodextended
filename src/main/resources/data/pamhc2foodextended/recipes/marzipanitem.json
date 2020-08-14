@@ -1,0 +1,22 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_mixingbowl"
+    },
+    {
+      "tag": "forge:honey"
+    },
+    {
+      "tag": "forge:crops/almond"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:marzipanitem",
+	"count": 1}
+	
+}

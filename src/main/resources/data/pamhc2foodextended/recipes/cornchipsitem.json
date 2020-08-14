@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:crops/corn"
+    },
+    {
+      "tag": "forge:salt"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:cornchipsitem",
+	"count": 1}
+	
+}

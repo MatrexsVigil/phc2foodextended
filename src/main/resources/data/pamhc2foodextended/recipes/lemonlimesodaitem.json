@@ -1,0 +1,28 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/lemon"
+    },
+    {
+      "tag": "forge:crops/lime"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:lemonlimesodaitem",
+	"count": 1}
+	
+}

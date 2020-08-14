@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:water"
+    },
+    {
+      "tag": "forge:sugar"
+    },
+    {
+      "tag": "forge:crops/grape"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:grapesodaitem",
+	"count": 1}
+	
+}

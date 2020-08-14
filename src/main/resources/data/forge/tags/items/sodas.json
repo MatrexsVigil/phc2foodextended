@@ -1,0 +1,14 @@
+{
+		"replace": false,
+		"values": [
+"#forge:sodas/cherrysodaitem",
+			"#forge:sodas/colasodaitem",
+"#forge:sodas/gingersodaitem",
+"#forge:sodas/grapefruitsodaitem",
+"#forge:sodas/grapesodaitem",
+"#forge:sodas/lemonlimesodaitem",
+"#forge:sodas/orangesodaitem",
+"#forge:sodas/rootbeersodaitem",
+"#forge:sodas/strawberrysodaitem"
+	]
+}

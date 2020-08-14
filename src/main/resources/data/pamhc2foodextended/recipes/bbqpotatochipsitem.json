@@ -1,0 +1,25 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	
+	"ingredients":
+	[
+    {
+      "tag": "forge:tool_pot"
+    },
+    {
+      "tag": "forge:condiments/bbqsauce"
+    },
+    {
+      "tag": "forge:crops/potato"
+    },
+    {
+      "tag": "forge:cookingoil"
+    }
+
+
+	],
+	
+	"result": {"item": "pamhc2foodextended:bbqpotatochipsitem",
+	"count": 1}
+	
+}

@@ -13,7 +13,7 @@
       "tag": "forge:butter"
     },
     {
-      "item": "forge:minecraft:baked_potato"
+      "item": "minecraft:baked_potato"
     },
     {
       "tag": "forge:crops/garlic"
@@ -22,7 +22,7 @@
 
 	],
 	
-	"result": {"item": "pamhc2foodextended:garlicmashedpotatoesitem,
+	"result": {"item": "pamhc2foodextended:garlicmashedpotatoesitem",
 	"count": 1}
 	
 }
