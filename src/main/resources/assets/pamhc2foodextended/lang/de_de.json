@@ -1,0 +1,533 @@
+{
+	"itemGroup.pamhc2foodextended": "Pam's HarvestCraft 2 - Food Extended",
+
+	
+	//tools
+//"item.pamhc2foodextended.bakewareitem": "Backware"
+
+//crops
+//chilipepper
+"item.pamhc2foodextended.hotsauceitem": "Scharfe Soße",
+//cucumber
+"item.pamhc2foodextended.relishitem": "Relish",
+//tomato
+"item.pamhc2foodextended.ketchupitem": "Ketchup",
+//mustard
+"item.pamhc2foodextended.mustarditem": "Senf",
+//sesame seeds
+"item.pamhc2foodextended.sesameoilitem": "Sesamöl",
+//soybean
+"item.pamhc2foodextended.soysauceitem": "Sojasauce",
+"item.pamhc2foodextended.soymilkitem": "Soja Milch",
+"item.pamhc2foodextended.silkentofuitem": "Seidentofu",
+"item.pamhc2foodextended.firmtofuitem": "Fester Tofu",
+
+//trees
+//temperate
+
+//warm
+//peppercorn
+"item.pamhc2foodextended.blackpepperitem": "Schwarzer Pfeffer",
+"item.pamhc2foodextended.saltandpepperitem": "Salz und Pfeffer",
+//cold
+
+//mushrooms
+"item.pamhc2foodextended.mushroomoilitem": "Pilzöl",
+
+//NUT BUTTERS
+"item.pamhc2foodextended.almondbutteritem": "Mandelbutter",
+"item.pamhc2foodextended.cashewbutteritem": "Cashewbutter",
+"item.pamhc2foodextended.chestnutbutteritem": "Kastanienbutter",
+"item.pamhc2foodextended.hazelnutbutteritem": "Haselnussbutter",
+"item.pamhc2foodextended.peanutbutteritem": "Erdnussbutter",
+"item.pamhc2foodextended.pecanbutteritem": "Pekannussbutter",
+"item.pamhc2foodextended.pistachiobutteritem": "Pistazienbutter",
+"item.pamhc2foodextended.walnutbutteritem": "Walnussbutter",
+
+//Tofu Meats
+"item.pamhc2foodextended.rawtofabbititem": "Roher Tofase",
+"item.pamhc2foodextended.rawtofaconitem": "Roher Tofacon",
+"item.pamhc2foodextended.rawtofeakitem": "Rohes Tofeak",
+"item.pamhc2foodextended.rawtofickenitem": "Rohes Tofühnchen",
+"item.pamhc2foodextended.rawtofishitem": "Roher Tofisch",
+"item.pamhc2foodextended.rawtofuttonitem": "Roher Tofammel",
+
+"item.pamhc2foodextended.cookedtofabbititem": "Gekochter Tofase",
+"item.pamhc2foodextended.cookedtofaconitem": "Gekochter Tofacon",
+"item.pamhc2foodextended.cookedtofeakitem": "Gekochtes Tofeak",
+"item.pamhc2foodextended.cookedtofickenitem": "Gekochtes Tofühnchen",
+"item.pamhc2foodextended.cookedtofishitem": "Gekochter Tofisch",
+"item.pamhc2foodextended.cookedtofuttonitem": "Gekochter Tofammel",
+
+
+//Taco Italian Update
+"item.pamhc2foodextended.anchovypepperonipizzaitem": "Sardellen-Peperoni-Pizza",
+"item.pamhc2foodextended.bbqsauceitem": "BBQ Soße",
+"item.pamhc2foodextended.bbqchickenpizzaitem": "BBQ Hühnchen-Pizza",
+"item.pamhc2foodextended.beansandriceitem": "Bohnen und Reis",
+"item.pamhc2foodextended.chimichangaitem": "Chimichanga",
+"item.pamhc2foodextended.chipsandsalsaitem": "Chips and Salsa",
+"item.pamhc2foodextended.cornmealitem": "Maismehl",
+"item.pamhc2foodextended.deluxenachoesitem": "Deluxe Nachos",
+"item.pamhc2foodextended.enchiladaitem": "Enchilada",
+"item.pamhc2foodextended.fiestacornsaladitem": "Fiesta Maissalat",
+"item.pamhc2foodextended.fishtacoitem": "Fisch Taco",
+"item.pamhc2foodextended.garlicbreaditem": "Knoblauchbrot",
+"item.pamhc2foodextended.garlicchickenitem": "Knoblauch-Hühnchen",
+"item.pamhc2foodextended.garlicmashedpotatoesitem": "Knoblauch-Kartoffelbrei",
+"item.pamhc2foodextended.hamandpineapplepizzaitem": "Hawaii Pizza",
+"item.pamhc2foodextended.meatfeastpizzaitem": "Fleischfest Pizza",
+"item.pamhc2foodextended.nachoesitem": "Nachos",
+"item.pamhc2foodextended.pepperoniitem": "Pepperoni",
+"item.pamhc2foodextended.pepperonipizzaitem": "Pepperoni Pizza",
+"item.pamhc2foodextended.pizzasliceitem": "Pizza Stück",
+"item.pamhc2foodextended.quesadillaitem": "Quesadilla",
+"item.pamhc2foodextended.refriedbeansitem": "Bohnenmus",
+"item.pamhc2foodextended.sausageitem": "Wurst",
+"item.pamhc2foodextended.salsaitem": "Salsa",
+"item.pamhc2foodextended.spagettiandmeatballsitem": "Spaghetti und Fleischbällchen",
+"item.pamhc2foodextended.spagettiitem": "Spaghetti",
+"item.pamhc2foodextended.spaghettidinneritem": "Spaghetti-Abendessen",
+"item.pamhc2foodextended.stuffedchilipeppersitem": "Gefüllte Chilischoten",
+"item.pamhc2foodextended.supremepizzaitem": "Supreme Pizza",
+"item.pamhc2foodextended.tacoitem": "Taco",
+"item.pamhc2foodextended.tortillachipsitem": "Torilla Chips",
+"item.pamhc2foodextended.tortillaitem": "Tortilla",
+
+//Junk Food Update
+"item.pamhc2foodextended.bbqpotatochipsitem": "BBQ Kartoffelchips",
+"item.pamhc2foodextended.candiedgingeritem": "Kandierter Ingwer",
+"item.pamhc2foodextended.candiedlemonitem": "Kandierte Zitrone",
+"item.pamhc2foodextended.candiedpecansitem": "Kandierte Pekannüsse",
+"item.pamhc2foodextended.candiedsweetpotatoesitem": "Kandierte Süßkartoffeln",
+"item.pamhc2foodextended.candiedwalnutsitem": "Kandierte Walnüsse",
+"item.pamhc2foodextended.cheddarandsourcreampotatochipsitem": "Cheddar und Sauerrahm Kartoffelchips",
+"item.pamhc2foodextended.cherrysodaitem": "Kirschsoda",
+"item.pamhc2foodextended.chilichocolateitem": "Chili-Schokolade",
+"item.pamhc2foodextended.chipsanddipitem": "Chips und Dip",
+"item.pamhc2foodextended.chocolatecherryitem": "Schokokirsche",
+"item.pamhc2foodextended.chocolatecoconutbaritem": "Schokoladen-Kokosnuss-Riegel",
+"item.pamhc2foodextended.chocolateorangeitem": "Schokoorange",
+"item.pamhc2foodextended.chocolatepeanutbaritem": "Schokoladen-Erdnussriegel",
+"item.pamhc2foodextended.chocolatestrawberryitem": "Schokoerdbeere",
+"item.pamhc2foodextended.colasodaitem": "Cola",
+"item.pamhc2foodextended.cornchipsitem": "Maischips",
+"item.pamhc2foodextended.cottoncandyitem": "Zuckerwatte",
+"item.pamhc2foodextended.crispyricepuffbarsitem": "Puffreisriegel",
+"item.pamhc2foodextended.energydrinkitem": "Energy Drink",
+"item.pamhc2foodextended.gingersodaitem": "Ingwerlimonade",
+"item.pamhc2foodextended.grapefruitsodaitem": "Grapefruitlimonade",
+"item.pamhc2foodextended.grapesodaitem": "Traubenlimonade",
+"item.pamhc2foodextended.hazelnutchocolateitem": "Haselnussschokolade",
+"item.pamhc2foodextended.lemonlimesodaitem": "Zitronen-Limetten-Limonade",
+"item.pamhc2foodextended.maplecandiedbaconitem": "Sirup-Kandierter Bacon",
+"item.pamhc2foodextended.marzipanitem": "Marzipan",
+"item.pamhc2foodextended.orangesodaitem": "Orangenlimonade",
+"item.pamhc2foodextended.peanutbuttercupitem": "Erdnussbutter Praline",
+"item.pamhc2foodextended.peppermintitem": "Pfefferminz",
+"item.pamhc2foodextended.popcornitem": "Popkorn",
+"item.pamhc2foodextended.pralinesitem": "Pralinen",
+"item.pamhc2foodextended.rootbeerfloatitem": "Rootbeer Eisbecher",
+"item.pamhc2foodextended.rootbeersodaitem": "Rootbeerlimonade",
+"item.pamhc2foodextended.sesamesnapsitem": "Sesam Plätzchen",
+"item.pamhc2foodextended.sourcreamandonionpotatochipsitem": "Sour Cream and Onion Kartoffelchips",
+"item.pamhc2foodextended.strawberrysodaitem": "Erdbeerlimonade",
+"item.pamhc2foodextended.theatreboxitem": "Kino-Box",
+"item.pamhc2foodextended.ediblerootitem": "Essbare Wurzel",
+
+//JUICES
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjuiceitem": "Brombeersaft",
+"item.pamhc2foodextended.blueberryjuiceitem": "Blaubeersaft",
+"item.pamhc2foodextended.cactusfruitjuiceitem": "Kaktusfruchtsaft",
+"item.pamhc2foodextended.candleberryjuiceitem": "Wachsmyrtensaft",
+"item.pamhc2foodextended.cranberryjuiceitem": "Cranberrysaft",
+"item.pamhc2foodextended.elderberryjuiceitem": "Holunderbeersaft",
+"item.pamhc2foodextended.huckleberryjuiceitem": "Heidelbeersaft",
+"item.pamhc2foodextended.juniperberryjuiceitem": "Wacholderbeersaft",
+"item.pamhc2foodextended.mulberryjuiceitem": "Maulbeersaft",
+"item.pamhc2foodextended.raspberryjuiceitem": "Himbeersaft",
+"item.pamhc2foodextended.strawberryjuiceitem": "Erdbeersaft",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejuiceitem": "Cantaloup-Melonensaft",
+"item.pamhc2foodextended.grapejuiceitem": "Traubensaft",
+"item.pamhc2foodextended.greengrapejuiceitem": "Grüner-Traubensaft",
+"item.pamhc2foodextended.kiwijuiceitem": "Kiwisaft",
+"item.pamhc2foodextended.pineapplejuiceitem": "Ananassaft",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjuiceitem": "Kirschsaft",
+"item.pamhc2foodextended.orangejuiceitem": "Orangensaft",
+"item.pamhc2foodextended.peachjuiceitem": "Pfirsichsaft",
+"item.pamhc2foodextended.pearjuiceitem": "Birnensaft",
+"item.pamhc2foodextended.plumjuiceitem": "Pflaumensaft",
+"item.pamhc2foodextended.pawpawjuiceitem": "Pawpawsaft",
+"item.pamhc2foodextended.soursopjuiceitem": "Stachelannonensaft",
+//warm
+"item.pamhc2foodextended.apricotjuiceitem": "Aprikosensaft",
+"item.pamhc2foodextended.bananajuiceitem": "Bananensaft",
+"item.pamhc2foodextended.datejuiceitem": "Dattelsaft",
+"item.pamhc2foodextended.dragonfruitjuiceitem": "Drachenfruchtsaft",
+"item.pamhc2foodextended.figjuiceitem": "Feigensaft",
+"item.pamhc2foodextended.grapefruitjuiceitem": "Grapefruitsaft",
+"item.pamhc2foodextended.mangojuiceitem": "Mangosaft",
+"item.pamhc2foodextended.papayajuiceitem": "Papayasaft",
+"item.pamhc2foodextended.persimmonjuiceitem": "Persimmonensaft",
+"item.pamhc2foodextended.pomegranatejuiceitem": "Granatapfelsaft",
+"item.pamhc2foodextended.starfruitjuiceitem": "Sternfruchtsaft",
+"item.pamhc2foodextended.breadfruitjuiceitem": "Brotfruchtsaft",
+"item.pamhc2foodextended.jackfruitjuiceitem": "Jackfruchtsaft",
+"item.pamhc2foodextended.guavajuiceitem": "Guavensaft",
+"item.pamhc2foodextended.lycheejuiceitem": "Litchiesaft",
+"item.pamhc2foodextended.passionfruitjuiceitem": "Passionsfruchtsaft",
+"item.pamhc2foodextended.rambutanjuiceitem": "Rambutansaft",
+"item.pamhc2foodextended.tamarindjuiceitem": "Tamarindensaft",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjuiceitem": "Stachelbeersaft",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjuiceitem": "Duriansaft",
+"item.pamhc2foodextended.lemonjuiceitem": "Zitronensaft",
+"item.pamhc2foodextended.limejuiceitem": "Limettensaft",
+
+//JELLY
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellyitem": "Brombeergelee",
+"item.pamhc2foodextended.blueberryjellyitem": "Blaubeergelee",
+"item.pamhc2foodextended.cactusfruitjellyitem": "Kaktusfruchtgelee",
+"item.pamhc2foodextended.candleberryjellyitem": "Wachsmyrtengelee",
+"item.pamhc2foodextended.cranberryjellyitem": "Cranberrygelee",
+"item.pamhc2foodextended.elderberryjellyitem": "Holundergelee",
+"item.pamhc2foodextended.huckleberryjellyitem": "Heidelbeergelee",
+"item.pamhc2foodextended.juniperberryjellyitem": "Wacholderbeergelee",
+"item.pamhc2foodextended.mulberryjellyitem": "Maulbeergelee",
+"item.pamhc2foodextended.raspberryjellyitem": "Himbeergelee",
+"item.pamhc2foodextended.strawberryjellyitem": "Erdbeergelee",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellyitem": "Cantaloup-Melonengelee",
+"item.pamhc2foodextended.grapejellyitem": "Traubengelee",
+"item.pamhc2foodextended.greengrapejellyitem": "Grünes Traubengelee",
+"item.pamhc2foodextended.kiwijellyitem": "Kiwigelee",
+"item.pamhc2foodextended.pineapplejellyitem": "Ananasgelee",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellyitem": "Kirschgelee",
+"item.pamhc2foodextended.orangejellyitem": "Orangengelee",
+"item.pamhc2foodextended.peachjellyitem": "Pfirsichgelee",
+"item.pamhc2foodextended.pearjellyitem": "Birnengelee",
+"item.pamhc2foodextended.plumjellyitem": "Pflaumengelee",
+"item.pamhc2foodextended.pawpawjellyitem": "Pawpawgelee",
+"item.pamhc2foodextended.soursopjellyitem": "Stachelannonengelee",
+//warm
+"item.pamhc2foodextended.apricotjellyitem": "Aprikosengelee",
+"item.pamhc2foodextended.bananajellyitem": "Bananengelee",
+"item.pamhc2foodextended.datejellyitem": "Dattelgelee",
+"item.pamhc2foodextended.dragonfruitjellyitem": "Drachenfruchtgelee",
+"item.pamhc2foodextended.figjellyitem": "Feigengelee",
+"item.pamhc2foodextended.grapefruitjellyitem": "Grapefruitgelee",
+"item.pamhc2foodextended.mangojellyitem": "Mangogelee",
+"item.pamhc2foodextended.papayajellyitem": "Papayagelee",
+"item.pamhc2foodextended.persimmonjellyitem": "Persimmonengelee",
+"item.pamhc2foodextended.pomegranatejellyitem": "Granatapfelgelee",
+"item.pamhc2foodextended.starfruitjellyitem": "Sternfruchtgelee",
+"item.pamhc2foodextended.breadfruitjellyitem": "Brotfruchtgelee",
+"item.pamhc2foodextended.jackfruitjellyitem": "Jackfruchtgelee",
+"item.pamhc2foodextended.guavajellyitem": "Guavengelee",
+"item.pamhc2foodextended.lycheejellyitem": "Litchiegelee",
+"item.pamhc2foodextended.passionfruitjellyitem": "Passionsfruchtgelee",
+"item.pamhc2foodextended.rambutanjellyitem": "Rambutangelee",
+"item.pamhc2foodextended.tamarindjellyitem": "Tamarindengelee",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellyitem": "Stachelbeergelee",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellyitem": "Duriangelee",
+"item.pamhc2foodextended.lemonjellyitem": "Zitronengelee",
+"item.pamhc2foodextended.limejellyitem": "Limettengelee",
+
+//SMOOTHIE
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberrysmoothieitem": "Brombeersmoothie",
+"item.pamhc2foodextended.blueberrysmoothieitem": "Blaubeersmoothie",
+"item.pamhc2foodextended.cactusfruitsmoothieitem": "Kaktusfruchtsmoothie",
+"item.pamhc2foodextended.candleberrysmoothieitem": "Wachsmyrtensmoothie",
+"item.pamhc2foodextended.cranberrysmoothieitem": "Cranberrysmoothie",
+"item.pamhc2foodextended.elderberrysmoothieitem": "Holundersmoothie",
+"item.pamhc2foodextended.huckleberrysmoothieitem": "Heidelbeersmoothie",
+"item.pamhc2foodextended.juniperberrysmoothieitem": "Wacholderbeersmoothie",
+"item.pamhc2foodextended.mulberrysmoothieitem": "Maulbeersmoothie",
+"item.pamhc2foodextended.raspberrysmoothieitem": "Himbeersmoothie",
+"item.pamhc2foodextended.strawberrysmoothieitem": "Erdbeersmoothie",
+//fruit 2
+"item.pamhc2foodextended.cantaloupesmoothieitem": "Cantaloup-Melonensmoothie",
+"item.pamhc2foodextended.grapesmoothieitem": "Traubensmoothie",
+"item.pamhc2foodextended.greengrapesmoothieitem": "Grüner Traubensmoothie",
+"item.pamhc2foodextended.kiwismoothieitem": "Kiwismoothie",
+"item.pamhc2foodextended.pineapplesmoothieitem": "Ananassmoothie",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherrysmoothieitem": "Kirschsmoothie",
+"item.pamhc2foodextended.orangesmoothieitem": "Orangensmoothie",
+"item.pamhc2foodextended.peachsmoothieitem": "Pfirsichsmoothie",
+"item.pamhc2foodextended.pearsmoothieitem": "Birnensmoothie",
+"item.pamhc2foodextended.plumsmoothieitem": "Pflaumensmoothie",
+"item.pamhc2foodextended.pawpawsmoothieitem": "Pawpawsmoothie",
+"item.pamhc2foodextended.soursopsmoothieitem": "Stachelannonensmoothie",
+//warm
+"item.pamhc2foodextended.apricotsmoothieitem": "Aprikosensmoothie",
+"item.pamhc2foodextended.bananasmoothieitem": "Bananensmoothie",
+"item.pamhc2foodextended.datesmoothieitem": "Dattelsmoothie",
+"item.pamhc2foodextended.dragonfruitsmoothieitem": "Drachenfruchtsmoothie",
+"item.pamhc2foodextended.figsmoothieitem": "Feigensmoothie",
+"item.pamhc2foodextended.grapefruitsmoothieitem": "Grapefruitsmoothie",
+"item.pamhc2foodextended.mangosmoothieitem": "Mangosmoothie",
+"item.pamhc2foodextended.papayasmoothieitem": "Papayasmoothie",
+"item.pamhc2foodextended.persimmonsmoothieitem": "Persimmonensmoothie",
+"item.pamhc2foodextended.pomegranatesmoothieitem": "Granatapfelsmoothie",
+"item.pamhc2foodextended.starfruitsmoothieitem": "Sternfruchtsmoothie",
+"item.pamhc2foodextended.breadfruitsmoothieitem": "Brotfruchtsmoothie",
+"item.pamhc2foodextended.jackfruitsmoothieitem": "Jackfruchtsmoothie",
+"item.pamhc2foodextended.guavasmoothieitem": "Guavensmoothie",
+"item.pamhc2foodextended.lycheesmoothieitem": "Litchiesmoothie",
+"item.pamhc2foodextended.passionfruitsmoothieitem": "Passionsfruchtsmoothie",
+"item.pamhc2foodextended.rambutansmoothieitem": "Rambutansmoothie",
+"item.pamhc2foodextended.tamarindsmoothieitem": "Tamarindensmoothie",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberrysmoothieitem": "Stachelbeersmoothie",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.duriansmoothieitem": "Duriansmoothie",
+"item.pamhc2foodextended.lemonsmoothieitem": "Zitronensmoothie",
+"item.pamhc2foodextended.limesmoothieitem": "Limettensmoothie",
+
+
+//PIE
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberrypieitem": "Brombeerkuchen",
+"item.pamhc2foodextended.blueberrypieitem": "Blaubeerkuchen",
+"item.pamhc2foodextended.cactusfruitpieitem": "Kaktusfruchtkuchen",
+"item.pamhc2foodextended.candleberrypieitem": "Wachsmyrtenkuchen",
+"item.pamhc2foodextended.cranberrypieitem": "Cranberrykuchen",
+"item.pamhc2foodextended.elderberrypieitem": "Holunderkuchen",
+"item.pamhc2foodextended.huckleberrypieitem": "Heidelbeerkuchen",
+"item.pamhc2foodextended.juniperberrypieitem": "Wacholderbeerkuchen",
+"item.pamhc2foodextended.mulberrypieitem": "Maulbeerkuchen",
+"item.pamhc2foodextended.raspberrypieitem": "Himbeerkuchen",
+"item.pamhc2foodextended.strawberrypieitem": "Erdbeerkuchen",
+//fruit 2
+"item.pamhc2foodextended.cantaloupepieitem": "Cantaloup-Melonenkuchen",
+"item.pamhc2foodextended.grapepieitem": "Traubenkuchen",
+"item.pamhc2foodextended.greengrapepieitem": "Grüner Traubenkuchen",
+"item.pamhc2foodextended.kiwipieitem": "Kiwikuchen",
+"item.pamhc2foodextended.pineapplepieitem": "Ananaskuchen",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherrypieitem": "Kirschkuchen",
+"item.pamhc2foodextended.orangepieitem": "Orangenkuchen",
+"item.pamhc2foodextended.peachpieitem": "Pfirsichkuchen",
+"item.pamhc2foodextended.pearpieitem": "Birnenkuchen",
+"item.pamhc2foodextended.plumpieitem": "Pflaumenkuchen",
+"item.pamhc2foodextended.pawpawpieitem": "Pawpawkuchen",
+"item.pamhc2foodextended.soursoppieitem": "Stachelannonenkuchen",
+//warm
+"item.pamhc2foodextended.apricotpieitem": "Aprikosenkuchen",
+"item.pamhc2foodextended.bananapieitem": "Bananenkuchen",
+"item.pamhc2foodextended.datepieitem": "Dattelkuchen",
+"item.pamhc2foodextended.dragonfruitpieitem": "Drachenfruchtkuchen",
+"item.pamhc2foodextended.figpieitem": "Feigenkuchen",
+"item.pamhc2foodextended.grapefruitpieitem": "Grapefruitkuchen",
+"item.pamhc2foodextended.mangopieitem": "Mangokuchen",
+"item.pamhc2foodextended.papayapieitem": "Papayakuchen",
+"item.pamhc2foodextended.persimmonpieitem": "Persimmonenkuchen",
+"item.pamhc2foodextended.pomegranatepieitem": "Granatapfelkuchen",
+"item.pamhc2foodextended.starfruitpieitem": "Sternfruchtkuchen",
+"item.pamhc2foodextended.breadfruitpieitem": "Brotfruchtkuchen",
+"item.pamhc2foodextended.jackfruitpieitem": "Jackfruchtkuchen",
+"item.pamhc2foodextended.guavapieitem": "Guavenkuchen",
+"item.pamhc2foodextended.lycheepieitem": "Litchiekuchen",
+"item.pamhc2foodextended.passionfruitpieitem": "Passionsfruchtkuchen",
+"item.pamhc2foodextended.rambutanpieitem": "Rambutankuchen",
+"item.pamhc2foodextended.tamarindpieitem": "Tamarindenkuchen",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberrypieitem": "Stachelbeerkuchen",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianpieitem": "Duriankuchen",
+"item.pamhc2foodextended.lemonpieitem": "Zitronenkuchen",
+"item.pamhc2foodextended.limepieitem": "Limettenkuchen",
+
+
+//JELLY TOAST
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellytoastitem": "Brombeergeleetoast",
+"item.pamhc2foodextended.blueberryjellytoastitem": "Blaubeergeleetoast",
+"item.pamhc2foodextended.cactusfruitjellytoastitem": "Kaktusfruchtgeleetoast",
+"item.pamhc2foodextended.candleberryjellytoastitem": "Wachsmyrtengeleetoast",
+"item.pamhc2foodextended.cranberryjellytoastitem": "Cranberrygeleetoast",
+"item.pamhc2foodextended.elderberryjellytoastitem": "Holundergeleetoast",
+"item.pamhc2foodextended.huckleberryjellytoastitem": "Heidelbeergeleetoast",
+"item.pamhc2foodextended.juniperberryjellytoastitem": "Wacholderbeergeleetoast",
+"item.pamhc2foodextended.mulberryjellytoastitem": "Maulbeergeleetoast",
+"item.pamhc2foodextended.raspberryjellytoastitem": "Himbeergeleetoast",
+"item.pamhc2foodextended.strawberryjellytoastitem": "Erdbeergeleetoast",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellytoastitem": "Cantaloup-Melonengeleetoast",
+"item.pamhc2foodextended.grapejellytoastitem": "Traubengeleetoast",
+"item.pamhc2foodextended.greengrapejellytoastitem": "Grünes Traubengeleetoast",
+"item.pamhc2foodextended.kiwijellytoastitem": "Kiwigeleetoast",
+"item.pamhc2foodextended.pineapplejellytoastitem": "Ananasgeleetoast",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellytoastitem": "Kirschgeleetoast",
+"item.pamhc2foodextended.orangejellytoastitem": "Orangengeleetoast",
+"item.pamhc2foodextended.peachjellytoastitem": "Pfirsichgeleetoast",
+"item.pamhc2foodextended.pearjellytoastitem": "Birnengeleetoast",
+"item.pamhc2foodextended.plumjellytoastitem": "Pflaumengeleetoast",
+"item.pamhc2foodextended.pawpawjellytoastitem": "Pawpawgeleetoast",
+"item.pamhc2foodextended.soursopjellytoastitem": "Stachelannonengeleetoast",
+//warm
+"item.pamhc2foodextended.apricotjellytoastitem": "Aprikosengeleetoast",
+"item.pamhc2foodextended.bananajellytoastitem": "Bananengeleetoast",
+"item.pamhc2foodextended.datejellytoastitem": "Dattelgeleetoast",
+"item.pamhc2foodextended.dragonfruitjellytoastitem": "Drachenfruchtgeleetoast",
+"item.pamhc2foodextended.figjellytoastitem": "Feigengeleetoast",
+"item.pamhc2foodextended.grapefruitjellytoastitem": "Grapefruitgeleetoast",
+"item.pamhc2foodextended.mangojellytoastitem": "Mangogeleetoast",
+"item.pamhc2foodextended.papayajellytoastitem": "Papayageleetoast",
+"item.pamhc2foodextended.persimmonjellytoastitem": "Persimmonengeleetoast",
+"item.pamhc2foodextended.pomegranatejellytoastitem": "Granatapfelgeleetoast",
+"item.pamhc2foodextended.starfruitjellytoastitem": "Sternfruchtgeleetoast",
+"item.pamhc2foodextended.breadfruitjellytoastitem": "Brotfruchtgeleetoast",
+"item.pamhc2foodextended.jackfruitjellytoastitem": "Jackfruchtgeleetoast",
+"item.pamhc2foodextended.guavajellytoastitem": "Guavengeleetoast",
+"item.pamhc2foodextended.lycheejellytoastitem": "Litchiegeleetoast",
+"item.pamhc2foodextended.passionfruitjellytoastitem": "Passionsfruchtgeleetoast",
+"item.pamhc2foodextended.rambutanjellytoastitem": "Rambutangeleetoast",
+"item.pamhc2foodextended.tamarindjellytoastitem": "Tamarindengeleetoast",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellytoastitem": "Stachelbeergeleetoast",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellytoastitem": "Duriangeleetoast",
+"item.pamhc2foodextended.lemonjellytoastitem": "Zitronengeleetoast",
+"item.pamhc2foodextended.limejellytoastitem": "Limettengeleetoast",
+
+
+//YOGURT
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryyogurtitem": "Brombeerjogurt",
+"item.pamhc2foodextended.blueberryyogurtitem": "Blaubeerjogurt",
+"item.pamhc2foodextended.cactusfruityogurtitem": "Kaktusfruchtjogurt",
+"item.pamhc2foodextended.candleberryyogurtitem": "Wachsmyrtenjogurt",
+"item.pamhc2foodextended.cranberryyogurtitem": "Cranberryjogurt",
+"item.pamhc2foodextended.elderberryyogurtitem": "Holunderjogurt",
+"item.pamhc2foodextended.huckleberryyogurtitem": "Heidelbeerjogurt",
+"item.pamhc2foodextended.juniperberryyogurtitem": "Wacholderbeerjogurt",
+"item.pamhc2foodextended.mulberryyogurtitem": "Maulbeerjogurt",
+"item.pamhc2foodextended.raspberryyogurtitem": "Himbeerjogurt",
+"item.pamhc2foodextended.strawberryyogurtitem": "Erdbeerjogurt",
+//fruit 2
+"item.pamhc2foodextended.cantaloupeyogurtitem": "Cantaloup-Melonenjogurt",
+"item.pamhc2foodextended.grapeyogurtitem": "Traubenjogurt",
+"item.pamhc2foodextended.greengrapeyogurtitem": "Grünes Traubenjogurt",
+"item.pamhc2foodextended.kiwiyogurtitem": "Kiwijogurt",
+"item.pamhc2foodextended.pineappleyogurtitem": "Ananasjogurt",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryyogurtitem": "Kirschjogurt",
+"item.pamhc2foodextended.orangeyogurtitem": "Orangenjogurt",
+"item.pamhc2foodextended.peachyogurtitem": "Pfirsichjogurt",
+"item.pamhc2foodextended.pearyogurtitem": "Birnenjogurt",
+"item.pamhc2foodextended.plumyogurtitem": "Pflaumenjogurt",
+"item.pamhc2foodextended.pawpawyogurtitem": "Pawpawjogurt",
+"item.pamhc2foodextended.soursopyogurtitem": "Stachelannonenjogurt",
+//warm
+"item.pamhc2foodextended.apricotyogurtitem": "Aprikosenjogurt",
+"item.pamhc2foodextended.bananayogurtitem": "Bananenjogurt",
+"item.pamhc2foodextended.dateyogurtitem": "Datteljogurt",
+"item.pamhc2foodextended.dragonfruityogurtitem": "Drachenfruchtjogurt",
+"item.pamhc2foodextended.figyogurtitem": "Feigenjogurt",
+"item.pamhc2foodextended.grapefruityogurtitem": "Grapefruitjogurt",
+"item.pamhc2foodextended.mangoyogurtitem": "Mangojogurt",
+"item.pamhc2foodextended.papayayogurtitem": "Papayajogurt",
+"item.pamhc2foodextended.persimmonyogurtitem": "Persimmonenjogurt",
+"item.pamhc2foodextended.pomegranateyogurtitem": "Granatapfeljogurt",
+"item.pamhc2foodextended.starfruityogurtitem": "Sternfruchtjogurt",
+"item.pamhc2foodextended.breadfruityogurtitem": "Brotfruchtjogurt",
+"item.pamhc2foodextended.jackfruityogurtitem": "Jackfruchtjogurt",
+"item.pamhc2foodextended.guavayogurtitem": "Guavenjogurt",
+"item.pamhc2foodextended.lycheeyogurtitem": "Litchiejogurt",
+"item.pamhc2foodextended.passionfruityogurtitem": "Passionsfruchtjogurt",
+"item.pamhc2foodextended.rambutanyogurtitem": "Rambutanjogurt",
+"item.pamhc2foodextended.tamarindyogurtitem": "Tamarindenjogurt",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryyogurtitem": "Stachelbeerjogurt",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianyogurtitem": "Durianjogurt",
+"item.pamhc2foodextended.lemonyogurtitem": "Zitronenjogurt",
+"item.pamhc2foodextended.limeyogurtitem": "Limettenjogurt",
+
+
+//JELLY SANDWICHES
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellysandwichitem": "Brombeergeleesandwich",
+"item.pamhc2foodextended.blueberryjellysandwichitem": "Blaubeergeleesandwich",
+"item.pamhc2foodextended.cactusfruitjellysandwichitem": "Kaktusfruchtgeleesandwich",
+"item.pamhc2foodextended.candleberryjellysandwichitem": "Wachsmyrtengeleesandwich",
+"item.pamhc2foodextended.cranberryjellysandwichitem": "Cranberrygeleesandwich",
+"item.pamhc2foodextended.elderberryjellysandwichitem": "Holundergeleesandwich",
+"item.pamhc2foodextended.huckleberryjellysandwichitem": "Heidelbeergeleesandwich",
+"item.pamhc2foodextended.juniperberryjellysandwichitem": "Wacholderbeergeleesandwich",
+"item.pamhc2foodextended.mulberryjellysandwichitem": "Maulbeergeleesandwich",
+"item.pamhc2foodextended.raspberryjellysandwichitem": "Himbeergeleesandwich",
+"item.pamhc2foodextended.strawberryjellysandwichitem": "Erdbeergeleesandwich",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellysandwichitem": "Cantaloup-Melonengeleesandwich",
+"item.pamhc2foodextended.grapejellysandwichitem": "Traubengeleesandwich",
+"item.pamhc2foodextended.greengrapejellysandwichitem": "Grünes Traubengeleesandwich",
+"item.pamhc2foodextended.kiwijellysandwichitem": "Kiwigeleesandwich",
+"item.pamhc2foodextended.pineapplejellysandwichitem": "Ananasgeleesandwich",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellysandwichitem": "Kirschgeleesandwich",
+"item.pamhc2foodextended.orangejellysandwichitem": "Orangengeleesandwich",
+"item.pamhc2foodextended.peachjellysandwichitem": "Pfirsichgeleesandwich",
+"item.pamhc2foodextended.pearjellysandwichitem": "Birnengeleesandwich",
+"item.pamhc2foodextended.plumjellysandwichitem": "Pflaumengeleesandwich",
+"item.pamhc2foodextended.pawpawjellysandwichitem": "Pawpawgeleesandwich",
+"item.pamhc2foodextended.soursopjellysandwichitem": "Stachelannonengeleesandwich",
+//warm
+"item.pamhc2foodextended.apricotjellysandwichitem": "Aprikosengeleesandwich",
+"item.pamhc2foodextended.bananajellysandwichitem": "Bananengeleesandwich",
+"item.pamhc2foodextended.datejellysandwichitem": "Dattelgeleesandwich",
+"item.pamhc2foodextended.dragonfruitjellysandwichitem": "Drachenfruchtgeleesandwich",
+"item.pamhc2foodextended.figjellysandwichitem": "Feigengeleesandwich",
+"item.pamhc2foodextended.grapefruitjellysandwichitem": "Grapefruitgeleesandwich",
+"item.pamhc2foodextended.mangojellysandwichitem": "Mangogeleesandwich",
+"item.pamhc2foodextended.papayajellysandwichitem": "Papayageleesandwich",
+"item.pamhc2foodextended.persimmonjellysandwichitem": "Persimmonengeleesandwich",
+"item.pamhc2foodextended.pomegranatejellysandwichitem": "Granatapfelgeleesandwich",
+"item.pamhc2foodextended.starfruitjellysandwichitem": "Sternfruchtgeleesandwich",
+"item.pamhc2foodextended.breadfruitjellysandwichitem": "Brotfruchtgeleesandwich",
+"item.pamhc2foodextended.jackfruitjellysandwichitem": "Jackfruchtgeleesandwich",
+"item.pamhc2foodextended.guavajellysandwichitem": "Guavengeleesandwich",
+"item.pamhc2foodextended.lycheejellysandwichitem": "Litchiegeleesandwich",
+"item.pamhc2foodextended.passionfruitjellysandwichitem": "Passionsfruchtgeleesandwich",
+"item.pamhc2foodextended.rambutanjellysandwichitem": "Rambutangeleesandwich",
+"item.pamhc2foodextended.tamarindjellysandwichitem": "Tamarindengeleesandwich",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellysandwichitem": "Stachelbeergeleesandwich",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellysandwichitem": "Duriangeleesandwich",
+"item.pamhc2foodextended.lemonjellysandwichitem": "Zitronengeleesandwich",
+"item.pamhc2foodextended.limejellysandwichitem": "Limettengeleesandwich",
+}
