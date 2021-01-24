@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "pamhc2foodextended:cookedtofaconitem",
+    "pamhc2foodextended:epicbaconitem",
+    "pamhc2foodextended:chocolatebaconitem",
+    "pamhc2foodextended:maplecandiedbaconitem"
+  ]
+}
