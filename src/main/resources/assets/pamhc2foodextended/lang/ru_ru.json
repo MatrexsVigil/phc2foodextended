@@ -1,0 +1,529 @@
+{
+	"itemGroup.pamhc2foodextended": "Pam's HarvestCraft 2 - Дополнительная еда",
+
+	
+	//tools
+//"item.pamhc2foodextended.bakewareitem": "Bakeware"
+
+//crops
+//chilipepper
+"item.pamhc2foodextended.hotsauceitem": "Острый соус",
+//cucumber
+"item.pamhc2foodextended.relishitem": "Релиш",
+//tomato
+"item.pamhc2foodextended.ketchupitem": "Кетчуп",
+//mustard
+"item.pamhc2foodextended.mustarditem": "Горчица",
+//sesame seeds
+"item.pamhc2foodextended.sesameoilitem": "Кунжутное масло",
+//soybean
+"item.pamhc2foodextended.soysauceitem": "Соевый соус",
+"item.pamhc2foodextended.soymilkitem": "Соевыое молоко",
+"item.pamhc2foodextended.silkentofuitem": "Сливочный тофу",
+"item.pamhc2foodextended.firmtofuitem": "Крепкий тофу",
+
+//trees
+//temperate
+
+//warm
+//peppercorn
+"item.pamhc2foodextended.blackpepperitem": "Черный перец",
+"item.pamhc2foodextended.saltandpepperitem": "Соль и перец",
+//cold
+
+//mushrooms
+"item.pamhc2foodextended.mushroomoilitem": "Грибное масло",
+
+//NUT BUTTERS
+"item.pamhc2foodextended.almondbutteritem": "Миндальное масло",
+"item.pamhc2foodextended.cashewbutteritem": "Масло из кешью",
+"item.pamhc2foodextended.chestnutbutteritem": "Каштановое масло",
+"item.pamhc2foodextended.hazelnutbutteritem": "Масло из лесного ореха",
+"item.pamhc2foodextended.peanutbutteritem": "Арахисовое масло",
+"item.pamhc2foodextended.pecanbutteritem": "Масло из ореха пекан",
+"item.pamhc2foodextended.pistachiobutteritem": "Фисташковое масло",
+"item.pamhc2foodextended.walnutbutteritem": "Ореховое масло",
+
+//Tofu Meats
+"item.pamhc2foodextended.rawtofabbititem": "Сырая тофу-крольчатина",
+"item.pamhc2foodextended.rawtofaconitem": "Сырая тофу-свинина",
+"item.pamhc2foodextended.rawtofeakitem": "Сырая тофу-говядина",
+"item.pamhc2foodextended.rawtofickenitem": "Сырая тофу-курятина",
+"item.pamhc2foodextended.rawtofishitem": "Сырая тофу-рыба",
+"item.pamhc2foodextended.rawtofuttonitem": "Сырая тофу-баранина",
+
+"item.pamhc2foodextended.cookedtofabbititem": "Жареная тофу-крольчатина",
+"item.pamhc2foodextended.cookedtofaconitem": "Жареная тофу-свинина",
+"item.pamhc2foodextended.cookedtofeakitem": "Жареная тофу-говядина",
+"item.pamhc2foodextended.cookedtofickenitem": "Жареная тофу-курятина",
+"item.pamhc2foodextended.cookedtofishitem": "Жареная тофу-рыба",
+"item.pamhc2foodextended.cookedtofuttonitem": "Жареная тофу-баранина",
+
+
+//Taco Italian Update
+"item.pamhc2foodextended.anchovypepperonipizzaitem": "Пицца с анчоусами и пепперони",
+"item.pamhc2foodextended.bbqsauceitem": "Соус BBQ",
+"item.pamhc2foodextended.bbqchickenpizzaitem": "Пицца с курицей BBQ",
+"item.pamhc2foodextended.beansandriceitem": "Бобы с рисом",
+"item.pamhc2foodextended.chimichangaitem": "Чимичанга",
+"item.pamhc2foodextended.chipsandsalsaitem": "Чипсы с сальсой",
+"item.pamhc2foodextended.cornmealitem": "Кукурузная мука",
+"item.pamhc2foodextended.deluxenachoesitem": "Делюкс начо",
+"item.pamhc2foodextended.enchiladaitem": "Энчилада",
+"item.pamhc2foodextended.fiestacornsaladitem": "Кукурузный салат Фиеста",
+"item.pamhc2foodextended.fishtacoitem": "Рыбный тако",
+"item.pamhc2foodextended.garlicbreaditem": "Чесночный хлеб",
+"item.pamhc2foodextended.garlicchickenitem": "Курица с чесноком",
+"item.pamhc2foodextended.garlicmashedpotatoesitem": "Картофельное пюре с чесноком",
+"item.pamhc2foodextended.hamandpineapplepizzaitem": "Пицца с ветчиной и ананасами",
+"item.pamhc2foodextended.meatfeastpizzaitem": "Пицца Мясной пир",
+"item.pamhc2foodextended.nachoesitem": "Начос",
+"item.pamhc2foodextended.pepperoniitem": "Пепперони",
+"item.pamhc2foodextended.pepperonipizzaitem": "Пицца пепперони",
+"item.pamhc2foodextended.pizzasliceitem": "Кусок пиццы",
+"item.pamhc2foodextended.quesadillaitem": "Кесадилья",
+"item.pamhc2foodextended.refriedbeansitem": "Пережареные бобы",
+"item.pamhc2foodextended.sausageitem": "Сосиска",
+"item.pamhc2foodextended.salsaitem": "Сальса",
+"item.pamhc2foodextended.spagettiandmeatballsitem": "Спагетти с мясными шариками",
+"item.pamhc2foodextended.spagettiitem": "Спагетти",
+"item.pamhc2foodextended.spaghettidinneritem": "Макаронный обед",
+"item.pamhc2foodextended.stuffedchilipeppersitem": "Фаршированный перец чили",
+"item.pamhc2foodextended.supremepizzaitem": "Высшая пицца",
+"item.pamhc2foodextended.tacoitem": "Тако",
+"item.pamhc2foodextended.tortillachipsitem": "Чипсы из тортильи",
+"item.pamhc2foodextended.tortillaitem": "Тортилья",
+
+//Junk Food Update
+"item.pamhc2foodextended.bbqpotatochipsitem": "Чипсы BBQ",
+"item.pamhc2foodextended.candiedgingeritem": "Засахаренный имбирь",
+"item.pamhc2foodextended.candiedlemonitem": "Засахаренный лимон",
+"item.pamhc2foodextended.candiedpecansitem": "Засахаренные орехи пекан",
+"item.pamhc2foodextended.candiedsweetpotatoesitem": "Цукаты из сладкого картофеля",
+"item.pamhc2foodextended.candiedwalnutsitem": "Засахаренные грецкие орехи",
+"item.pamhc2foodextended.cheddarandsourcreampotatochipsitem": "Картофельные чипсы с чеддером и сметаной",
+"item.pamhc2foodextended.cherrysodaitem": "Вишневая содовая",
+"item.pamhc2foodextended.chilichocolateitem": "Острый шоколад",
+"item.pamhc2foodextended.chipsanddipitem": "Чипсы с соусом",
+"item.pamhc2foodextended.chocolatecherryitem": "Шоколадная вишня",
+"item.pamhc2foodextended.chocolatecoconutbaritem": "Шоколадно-кокосовый батончик",
+"item.pamhc2foodextended.chocolateorangeitem": "Шоколадный апельсин",
+"item.pamhc2foodextended.chocolatepeanutbaritem": "Шоколадно-арахисовый батончик",
+"item.pamhc2foodextended.chocolatestrawberryitem": "Шоколадная клубника",
+"item.pamhc2foodextended.colasodaitem": "Кола содовая",
+"item.pamhc2foodextended.cornchipsitem": "Кукурузные чипсы",
+"item.pamhc2foodextended.cottoncandyitem": "Сахарная вата",
+"item.pamhc2foodextended.crispyricepuffbarsitem": "Слоеные батончики с воздушным рисом",
+"item.pamhc2foodextended.energydrinkitem": "Энергетический напиток",
+"item.pamhc2foodextended.gingersodaitem": "Имбирная содовая",
+"item.pamhc2foodextended.grapefruitsodaitem": "Грейпфрутовая содовая",
+"item.pamhc2foodextended.grapesodaitem": "Виноградная содовая",
+"item.pamhc2foodextended.hazelnutchocolateitem": "Шоколад с лесным орехом",
+"item.pamhc2foodextended.lemonlimesodaitem": "Лимон-лайм содовая",
+"item.pamhc2foodextended.maplecandiedbaconitem": "Кленовый цукат с беконом",
+"item.pamhc2foodextended.marzipanitem": "Марципан",
+"item.pamhc2foodextended.orangesodaitem": "Апельсиновая содовая",
+"item.pamhc2foodextended.peanutbuttercupitem": "Чашка с арахисовым маслом",
+"item.pamhc2foodextended.peppermintitem": "Перечная мята",
+"item.pamhc2foodextended.popcornitem": "Попкорн",
+"item.pamhc2foodextended.pralinesitem": "Пралине",
+"item.pamhc2foodextended.rootbeerfloatitem": "Корневое пиво",
+"item.pamhc2foodextended.rootbeersodaitem": "Корневая содовая",
+"item.pamhc2foodextended.sesamesnapsitem": "Кунжутные хлопья",
+"item.pamhc2foodextended.sourcreamandonionpotatochipsitem": "Картофельные чипсы со сметаной и луком",
+"item.pamhc2foodextended.strawberrysodaitem": "Клубничная содовая",
+"item.pamhc2foodextended.theatreboxitem": "Theatre Box",
+"item.pamhc2foodextended.ediblerootitem": "Съедобный корень",
+
+//JUICES
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjuiceitem": "Ежевичный сок",
+"item.pamhc2foodextended.blueberryjuiceitem": "Голубиковый сок",
+"item.pamhc2foodextended.cactusfruitjuiceitem": "Кактусовый сок",
+"item.pamhc2foodextended.candleberryjuiceitem": "Стунговый сок",
+"item.pamhc2foodextended.cranberryjuiceitem": "Клюквенный сок",
+"item.pamhc2foodextended.elderberryjuiceitem": "Бузинный сок",
+"item.pamhc2foodextended.huckleberryjuiceitem": "Сок гекльберри",
+"item.pamhc2foodextended.juniperberryjuiceitem": "Можжевеловый сок",
+"item.pamhc2foodextended.mulberryjuiceitem": "Сок шелковицы",
+"item.pamhc2foodextended.raspberryjuiceitem": "Малиновый сок",
+"item.pamhc2foodextended.strawberryjuiceitem": "Клубничный сок",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejuiceitem": "Канталуповый сок",
+"item.pamhc2foodextended.grapejuiceitem": "Виноградный сок",
+"item.pamhc2foodextended.greengrapejuiceitem": "Сок из зеленого винограда",
+"item.pamhc2foodextended.kiwijuiceitem": "Сок из киви",
+"item.pamhc2foodextended.pineapplejuiceitem": "Ананасовый сок",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjuiceitem": "Вишневый сок",
+"item.pamhc2foodextended.orangejuiceitem": "Апельсиновый сок",
+"item.pamhc2foodextended.peachjuiceitem": "Персиковый сок",
+"item.pamhc2foodextended.pearjuiceitem": "Грушевый сок",
+"item.pamhc2foodextended.plumjuiceitem": "Сливовый сок",
+"item.pamhc2foodextended.pawpawjuiceitem": "Сок из папайи",
+"item.pamhc2foodextended.soursopjuiceitem": "Сок из сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotjuiceitem": "Абрикосовый сок",
+"item.pamhc2foodextended.bananajuiceitem": "Банановый сок",
+"item.pamhc2foodextended.datejuiceitem": "финиковый сок",
+"item.pamhc2foodextended.dragonfruitjuiceitem": "Сок из драконьего фрукта",
+"item.pamhc2foodextended.figjuiceitem": "Фиговый сок",
+"item.pamhc2foodextended.grapefruitjuiceitem": "Грейпфрутовый сок",
+"item.pamhc2foodextended.mangojuiceitem": "Манговый сок",
+"item.pamhc2foodextended.papayajuiceitem": "Сок из папайи",
+"item.pamhc2foodextended.persimmonjuiceitem": "Сок из хурмы",
+"item.pamhc2foodextended.pomegranatejuiceitem": "Гранатовый сок",
+"item.pamhc2foodextended.starfruitjuiceitem": "Сок из карамболы",
+"item.pamhc2foodextended.breadfruitjuiceitem": "Сок из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitjuiceitem": "Сок из джекфрута",
+"item.pamhc2foodextended.guavajuiceitem": "Сок из гуавы",
+"item.pamhc2foodextended.lycheejuiceitem": "Сок из личи",
+"item.pamhc2foodextended.passionfruitjuiceitem": "Сок из маракуйи",
+"item.pamhc2foodextended.rambutanjuiceitem": "Рамбутановый сок",
+"item.pamhc2foodextended.tamarindjuiceitem": "Тамариндовый сок",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjuiceitem": "Крыжовниковый сок",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjuiceitem": "Дуриановый сок",
+"item.pamhc2foodextended.lemonjuiceitem": "Лимонный сок",
+"item.pamhc2foodextended.limejuiceitem": "Лаймовый сок",
+
+//JELLY
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellyitem": "Ежевичное желе",
+"item.pamhc2foodextended.blueberryjellyitem": "Голубиковое желе",
+"item.pamhc2foodextended.cactusfruitjellyitem": "Кактусовое желе",
+"item.pamhc2foodextended.candleberryjellyitem": "Стунговое желе",
+"item.pamhc2foodextended.cranberryjellyitem": "Клюквенное желе",
+"item.pamhc2foodextended.elderberryjellyitem": "Бузинное желе",
+"item.pamhc2foodextended.huckleberryjellyitem": "Желе гекльберри",
+"item.pamhc2foodextended.juniperberryjellyitem": "Можжевеловое желе",
+"item.pamhc2foodextended.mulberryjellyitem": "Желе шелковицы",
+"item.pamhc2foodextended.raspberryjellyitem": "Малиновое желе",
+"item.pamhc2foodextended.strawberryjellyitem": "Клубничное желе",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellyitem": "Канталуповое желе",
+"item.pamhc2foodextended.grapejellyitem": "Виноградное желе",
+"item.pamhc2foodextended.greengrapejellyitem": "Желе из зеленого винограда",
+"item.pamhc2foodextended.kiwijellyitem": "Желе из киви",
+"item.pamhc2foodextended.pineapplejellyitem": "Ананасовое желе",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellyitem": "Вишневое желе",
+"item.pamhc2foodextended.orangejellyitem": "Апельсиновое желе",
+"item.pamhc2foodextended.peachjellyitem": "Персиковое желе",
+"item.pamhc2foodextended.pearjellyitem": "Грушевое желе",
+"item.pamhc2foodextended.plumjellyitem": "Сливовое желе",
+"item.pamhc2foodextended.pawpawjellyitem": "Желе из папайи",
+"item.pamhc2foodextended.soursopjellyitem": "Желе из сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotjellyitem": "Абрикосовое желе",
+"item.pamhc2foodextended.bananajellyitem": "Банановое желе",
+"item.pamhc2foodextended.datejellyitem": "финиковое желе",
+"item.pamhc2foodextended.dragonfruitjellyitem": "Желе из драконьего фрукта",
+"item.pamhc2foodextended.figjellyitem": "Фиговое желе",
+"item.pamhc2foodextended.grapefruitjellyitem": "Грейпфрутовое желе",
+"item.pamhc2foodextended.mangojellyitem": "Манговое желе",
+"item.pamhc2foodextended.papayajellyitem": "Желе из папайи",
+"item.pamhc2foodextended.persimmonjellyitem": "Желе из хурмы",
+"item.pamhc2foodextended.pomegranatejellyitem": "Гранатовое желе",
+"item.pamhc2foodextended.starfruitjellyitem": "Желе из карамболы",
+"item.pamhc2foodextended.breadfruitjellyitem": "Желе из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitjellyitem": "Желе из джекфрута",
+"item.pamhc2foodextended.guavajellyitem": "Желе из гуавы",
+"item.pamhc2foodextended.lycheejellyitem": "Желе из личи",
+"item.pamhc2foodextended.passionfruitjellyitem": "Желе из маракуйи",
+"item.pamhc2foodextended.rambutanjellyitem": "Рамбутановое желе",
+"item.pamhc2foodextended.tamarindjellyitem": "Тамариндовое желе",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellyitem": "Крыжовниковое желе",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellyitem": "Дуриановое желе",
+"item.pamhc2foodextended.lemonjellyitem": "Лимонное желе",
+"item.pamhc2foodextended.limejellyitem": "Лаймовое желе",
+
+//SMOOTHIE
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberrysmoothieitem": "Ежевичный смузи",
+"item.pamhc2foodextended.blueberrysmoothieitem": "Голубиковый смузи",
+"item.pamhc2foodextended.cactusfruitsmoothieitem": "Кактусовый смузи",
+"item.pamhc2foodextended.candleberrysmoothieitem": "Стунговый смузи",
+"item.pamhc2foodextended.cranberrysmoothieitem": "Клюквенный смузи",
+"item.pamhc2foodextended.elderberrysmoothieitem": "Бузинный смузи",
+"item.pamhc2foodextended.huckleberrysmoothieitem": "Смузи гекльберри",
+"item.pamhc2foodextended.juniperberrysmoothieitem": "Можжевеловый смузи",
+"item.pamhc2foodextended.mulberrysmoothieitem": "Смузи шелковицы",
+"item.pamhc2foodextended.raspberrysmoothieitem": "Малиновый смузи",
+"item.pamhc2foodextended.strawberrysmoothieitem": "Клубничный смузи",
+//fruit 2
+"item.pamhc2foodextended.cantaloupesmoothieitem": "Канталуповый смузи",
+"item.pamhc2foodextended.grapesmoothieitem": "Виноградный смузи",
+"item.pamhc2foodextended.greengrapesmoothieitem": "Смузи из зеленого винограда",
+"item.pamhc2foodextended.kiwismoothieitem": "Смузи из киви",
+"item.pamhc2foodextended.pineapplesmoothieitem": "Ананасовый смузи",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherrysmoothieitem": "Вишневый смузи",
+"item.pamhc2foodextended.orangesmoothieitem": "Апельсиновый смузи",
+"item.pamhc2foodextended.peachsmoothieitem": "Персиковый смузи",
+"item.pamhc2foodextended.pearsmoothieitem": "Грушевый смузи",
+"item.pamhc2foodextended.plumsmoothieitem": "Сливовый смузи",
+"item.pamhc2foodextended.pawpawsmoothieitem": "Смузи из папайи",
+"item.pamhc2foodextended.soursopsmoothieitem": "Смузи из сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotsmoothieitem": "Абрикосовый смузи",
+"item.pamhc2foodextended.bananasmoothieitem": "Банановый смузи",
+"item.pamhc2foodextended.datesmoothieitem": "финиковый смузи",
+"item.pamhc2foodextended.dragonfruitsmoothieitem": "Смузи из драконьего фрукта",
+"item.pamhc2foodextended.figsmoothieitem": "Фиговый смузи",
+"item.pamhc2foodextended.grapefruitsmoothieitem": "Грейпфрутовый смузи",
+"item.pamhc2foodextended.mangosmoothieitem": "Манговый смузи",
+"item.pamhc2foodextended.papayasmoothieitem": "Смузи из папайи",
+"item.pamhc2foodextended.persimmonsmoothieitem": "Смузи из хурмы",
+"item.pamhc2foodextended.pomegranatesmoothieitem": "Гранатовый смузи",
+"item.pamhc2foodextended.starfruitsmoothieitem": "Смузи из карамболы",
+"item.pamhc2foodextended.breadfruitsmoothieitem": "Смузи из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitsmoothieitem": "Смузи из джекфрута",
+"item.pamhc2foodextended.guavasmoothieitem": "Смузи из гуавы",
+"item.pamhc2foodextended.lycheesmoothieitem": "Смузи из личи",
+"item.pamhc2foodextended.passionfruitsmoothieitem": "Смузи из маракуйи",
+"item.pamhc2foodextended.rambutansmoothieitem": "Рамбутановый смузи",
+"item.pamhc2foodextended.tamarindsmoothieitem": "Тамариндовый смузи",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberrysmoothieitem": "Крыжовниковый смузи",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.duriansmoothieitem": "Дуриановый смузи",
+"item.pamhc2foodextended.lemonsmoothieitem": "Лимонный смузи",
+"item.pamhc2foodextended.limesmoothieitem": "Лаймовый смузи",
+
+//PIE
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberrypieitem": "Ежевичный пирог",
+"item.pamhc2foodextended.blueberrypieitem": "Голубиковый пирог",
+"item.pamhc2foodextended.cactusfruitpieitem": "Кактусовый пирог",
+"item.pamhc2foodextended.candleberrypieitem": "Стунговый пирог",
+"item.pamhc2foodextended.cranberrypieitem": "Клюквенный пирог",
+"item.pamhc2foodextended.elderberrypieitem": "Бузинный пирог",
+"item.pamhc2foodextended.huckleberrypieitem": "Пирог гекльберри",
+"item.pamhc2foodextended.juniperberrypieitem": "Можжевеловый пирог",
+"item.pamhc2foodextended.mulberrypieitem": "Пирог шелковицы",
+"item.pamhc2foodextended.raspberrypieitem": "Малиновый пирог",
+"item.pamhc2foodextended.strawberrypieitem": "Клубничный пирог",
+//fruit 2
+"item.pamhc2foodextended.cantaloupepieitem": "Канталуповый пирог",
+"item.pamhc2foodextended.grapepieitem": "Виноградный пирог",
+"item.pamhc2foodextended.greengrapepieitem": "Пирог из зеленого винограда",
+"item.pamhc2foodextended.kiwipieitem": "Пирог из киви",
+"item.pamhc2foodextended.pineapplepieitem": "Ананасовый пирог",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherrypieitem": "Вишневый пирог",
+"item.pamhc2foodextended.orangepieitem": "Апельсиновый пирог",
+"item.pamhc2foodextended.peachpieitem": "Персиковый пирог",
+"item.pamhc2foodextended.pearpieitem": "Грушевый пирог",
+"item.pamhc2foodextended.plumpieitem": "Сливовый пирог",
+"item.pamhc2foodextended.pawpawpieitem": "Пирог из папайи",
+"item.pamhc2foodextended.soursoppieitem": "Пирог из сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotpieitem": "Абрикосовый пирог",
+"item.pamhc2foodextended.bananapieitem": "Банановый пирог",
+"item.pamhc2foodextended.datepieitem": "финиковый пирог",
+"item.pamhc2foodextended.dragonfruitpieitem": "Пирог из драконьего фрукта",
+"item.pamhc2foodextended.figpieitem": "Фиговый пирог",
+"item.pamhc2foodextended.grapefruitpieitem": "Грейпфрутовый пирог",
+"item.pamhc2foodextended.mangopieitem": "Манговый пирог",
+"item.pamhc2foodextended.papayapieitem": "Пирог из папайи",
+"item.pamhc2foodextended.persimmonpieitem": "Пирог из хурмы",
+"item.pamhc2foodextended.pomegranatepieitem": "Гранатовый пирог",
+"item.pamhc2foodextended.starfruitpieitem": "Пирог из карамболы",
+"item.pamhc2foodextended.breadfruitpieitem": "Пирог из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitpieitem": "Пирог из джекфрута",
+"item.pamhc2foodextended.guavapieitem": "Пирог из гуавы",
+"item.pamhc2foodextended.lycheepieitem": "Пирог из личи",
+"item.pamhc2foodextended.passionfruitpieitem": "Пирог из маракуйи",
+"item.pamhc2foodextended.rambutanpieitem": "Рамбутановый пирог",
+"item.pamhc2foodextended.tamarindpieitem": "Тамариндовый пирог",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberrypieitem": "Крыжовниковый пирог",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianpieitem": "Дуриановый пирог",
+"item.pamhc2foodextended.lemonpieitem": "Лимонный пирог",
+"item.pamhc2foodextended.limepieitem": "Лаймовый пирог",
+
+//JELLY TOAST
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellytoastitem": "Тост с ежевичным желе",
+"item.pamhc2foodextended.blueberryjellytoastitem": "Тост с голубиковым желе",
+"item.pamhc2foodextended.cactusfruitjellytoastitem": "Тост с кактусовым желе",
+"item.pamhc2foodextended.candleberryjellytoastitem": "Тост с стунговым желе",
+"item.pamhc2foodextended.cranberryjellytoastitem": "Тост с клюквенным желе",
+"item.pamhc2foodextended.elderberryjellytoastitem": "Тост с бузинным желе",
+"item.pamhc2foodextended.huckleberryjellytoastitem": "Тост с жел гекльберри",
+"item.pamhc2foodextended.juniperberryjellytoastitem": "Тост с можжевеловым желе",
+"item.pamhc2foodextended.mulberryjellytoastitem": "Тост с желе из шелковицы",
+"item.pamhc2foodextended.raspberryjellytoastitem": "Тост с малинвым желе",
+"item.pamhc2foodextended.strawberryjellytoastitem": "Тост с клубничным желе",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellytoastitem": "Тост с канталуповым желе",
+"item.pamhc2foodextended.grapejellytoastitem": "Тост с виноградным желе",
+"item.pamhc2foodextended.greengrapejellytoastitem": "Тост с желе зи зеленого винограда",
+"item.pamhc2foodextended.kiwijellytoastitem": "Тост с желе из киви",
+"item.pamhc2foodextended.pineapplejellytoastitem": "Тост с ананасовым желе",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellytoastitem": "Тост с вишневым желе",
+"item.pamhc2foodextended.orangejellytoastitem": "Тост с апельсиноввым желе",
+"item.pamhc2foodextended.peachjellytoastitem": "Тост с персиковым желе",
+"item.pamhc2foodextended.pearjellytoastitem": "Тост с грушевым желе",
+"item.pamhc2foodextended.plumjellytoastitem": "Тост с сливовым желе",
+"item.pamhc2foodextended.pawpawjellytoastitem": "Тост с желе из папайи",
+"item.pamhc2foodextended.soursopjellytoastitem": "Тост с желе зи сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotjellytoastitem": "Тост с абрикосовым желе",
+"item.pamhc2foodextended.bananajellytoastitem": "Тост с банановым желе",
+"item.pamhc2foodextended.datejellytoastitem": "Тост с финиковым желе",
+"item.pamhc2foodextended.dragonfruitjellytoastitem": "Тост с желе из дракольего фрукта",
+"item.pamhc2foodextended.figjellytoastitem": "Тост с фиговым желе",
+"item.pamhc2foodextended.grapefruitjellytoastitem": "Тост с грейпфрутовым желе",
+"item.pamhc2foodextended.mangojellytoastitem": "Тост с манговым желе",
+"item.pamhc2foodextended.papayajellytoastitem": "Тост с желе из папайи",
+"item.pamhc2foodextended.persimmonjellytoastitem": "Тост с желе из хурмы",
+"item.pamhc2foodextended.pomegranatejellytoastitem": "Тост с гранатовым желе",
+"item.pamhc2foodextended.starfruitjellytoastitem": "Тост с желе из карамболы",
+"item.pamhc2foodextended.breadfruitjellytoastitem": "Тост с желе из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitjellytoastitem": "Тост с желе из джекфрута",
+"item.pamhc2foodextended.guavajellytoastitem": "Тост с желе из гуавы",
+"item.pamhc2foodextended.lycheejellytoastitem": "Тост с желе из личи",
+"item.pamhc2foodextended.passionfruitjellytoastitem": "Тост с желе из маракуйи",
+"item.pamhc2foodextended.rambutanjellytoastitem": "Тост с рамбутановым желе",
+"item.pamhc2foodextended.tamarindjellytoastitem": "Тост с тамариндовым желе",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellytoastitem": "Тост с крыжовниковым желе",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellytoastitem": "Тост с дуриановым желе",
+"item.pamhc2foodextended.lemonjellytoastitem": "Тост с лимонным желе",
+"item.pamhc2foodextended.limejellytoastitem": "Тост с лаймовым желе",
+
+//YOGURT
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryyogurtitem": "Ежевичный йогурт",
+"item.pamhc2foodextended.blueberryyogurtitem": "Голубиковый йогурт",
+"item.pamhc2foodextended.cactusfruityogurtitem": "Кактусовый йогурт",
+"item.pamhc2foodextended.candleberryyogurtitem": "Стунговый йогурт",
+"item.pamhc2foodextended.cranberryyogurtitem": "Клюквенный йогурт",
+"item.pamhc2foodextended.elderberryyogurtitem": "Бузинный йогурт",
+"item.pamhc2foodextended.huckleberryyogurtitem": "Йогурт гекльберри",
+"item.pamhc2foodextended.juniperberryyogurtitem": "Можжевеловый йогурт",
+"item.pamhc2foodextended.mulberryyogurtitem": "Йогурт шелковицы",
+"item.pamhc2foodextended.raspberryyogurtitem": "Малиновый йогурт",
+"item.pamhc2foodextended.strawberryyogurtitem": "Клубничный йогурт",
+//fruit 2
+"item.pamhc2foodextended.cantaloupeyogurtitem": "Канталуповый йогурт",
+"item.pamhc2foodextended.grapeyogurtitem": "Виноградный йогурт",
+"item.pamhc2foodextended.greengrapeyogurtitem": "Йогурт из зеленого винограда",
+"item.pamhc2foodextended.kiwiyogurtitem": "Йогурт из киви",
+"item.pamhc2foodextended.pineappleyogurtitem": "Ананасовый йогурт",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryyogurtitem": "Вишневый йогурт",
+"item.pamhc2foodextended.orangeyogurtitem": "Апельсиновый йогурт",
+"item.pamhc2foodextended.peachyogurtitem": "Персиковый йогурт",
+"item.pamhc2foodextended.pearyogurtitem": "Грушевый йогурт",
+"item.pamhc2foodextended.plumyogurtitem": "Сливовый йогурт",
+"item.pamhc2foodextended.pawpawyogurtitem": "Йогурт из папайи",
+"item.pamhc2foodextended.soursopyogurtitem": "Йогурт из сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotyogurtitem": "Абрикосовый йогурт",
+"item.pamhc2foodextended.bananayogurtitem": "Банановый йогурт",
+"item.pamhc2foodextended.dateyogurtitem": "финиковый йогурт",
+"item.pamhc2foodextended.dragonfruityogurtitem": "Йогурт из драконьего фрукта",
+"item.pamhc2foodextended.figyogurtitem": "Фиговый йогурт",
+"item.pamhc2foodextended.grapefruityogurtitem": "Грейпфрутовый йогурт",
+"item.pamhc2foodextended.mangoyogurtitem": "Манговый йогурт",
+"item.pamhc2foodextended.papayayogurtitem": "Йогурт из папайи",
+"item.pamhc2foodextended.persimmonyogurtitem": "Йогурт из хурмы",
+"item.pamhc2foodextended.pomegranateyogurtitem": "Гранатовый йогурт",
+"item.pamhc2foodextended.starfruityogurtitem": "Йогурт из карамболы",
+"item.pamhc2foodextended.breadfruityogurtitem": "Йогурт из хлебного фрукта",
+"item.pamhc2foodextended.jackfruityogurtitem": "Йогурт из джекфрута",
+"item.pamhc2foodextended.guavayogurtitem": "Йогурт из гуавы",
+"item.pamhc2foodextended.lycheeyogurtitem": "Йогурт из личи",
+"item.pamhc2foodextended.passionfruityogurtitem": "Йогурт из маракуйи",
+"item.pamhc2foodextended.rambutanyogurtitem": "Рамбутановый йогурт",
+"item.pamhc2foodextended.tamarindyogurtitem": "Тамариндовый йогурт",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryyogurtitem": "Крыжовниковый йогурт",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianyogurtitem": "Дуриановый йогурт",
+"item.pamhc2foodextended.lemonyogurtitem": "Лимонный йогурт",
+"item.pamhc2foodextended.limeyogurtitem": "Лаймовый йогурт",
+
+//JELLY SANDWICHES
+//crops
+//berry 2
+"item.pamhc2foodextended.blackberryjellysandwichitem": "Сэндвич с ежевичным желе",
+"item.pamhc2foodextended.blueberryjellysandwichitem": "Сэндвич с голубиковым желе",
+"item.pamhc2foodextended.cactusfruitjellysandwichitem": "Сэндвич с кактусовым желе",
+"item.pamhc2foodextended.candleberryjellysandwichitem": "Сэндвич с стунговым желе",
+"item.pamhc2foodextended.cranberryjellysandwichitem": "Сэндвич с клюквенным желе",
+"item.pamhc2foodextended.elderberryjellysandwichitem": "Сэндвич с бузинным желе",
+"item.pamhc2foodextended.huckleberryjellysandwichitem": "Сэндвич с жел гекльберри",
+"item.pamhc2foodextended.juniperberryjellysandwichitem": "Сэндвич с можжевеловым желе",
+"item.pamhc2foodextended.mulberryjellysandwichitem": "Сэндвич с желе из шелковицы",
+"item.pamhc2foodextended.raspberryjellysandwichitem": "Сэндвич с малинвым желе",
+"item.pamhc2foodextended.strawberryjellysandwichitem": "Сэндвич с клубничным желе",
+//fruit 2
+"item.pamhc2foodextended.cantaloupejellysandwichitem": "Сэндвич с канталуповым желе",
+"item.pamhc2foodextended.grapejellysandwichitem": "Сэндвич с виноградным желе",
+"item.pamhc2foodextended.greengrapejellysandwichitem": "Сэндвич с желе зи зеленого винограда",
+"item.pamhc2foodextended.kiwijellysandwichitem": "Сэндвич с желе из киви",
+"item.pamhc2foodextended.pineapplejellysandwichitem": "Сэндвич с ананасовым желе",
+
+//fruits 4
+//temperate
+"item.pamhc2foodextended.cherryjellysandwichitem": "Сэндвич с вишневым желе",
+"item.pamhc2foodextended.orangejellysandwichitem": "Сэндвич с апельсиноввым желе",
+"item.pamhc2foodextended.peachjellysandwichitem": "Сэндвич с персиковым желе",
+"item.pamhc2foodextended.pearjellysandwichitem": "Сэндвич с грушевым желе",
+"item.pamhc2foodextended.plumjellysandwichitem": "Сэндвич с сливовым желе",
+"item.pamhc2foodextended.pawpawjellysandwichitem": "Сэндвич с желе из папайи",
+"item.pamhc2foodextended.soursopjellysandwichitem": "Сэндвич с желе зи сметанного яблока",
+//warm
+"item.pamhc2foodextended.apricotjellysandwichitem": "Сэндвич с абрикосовым желе",
+"item.pamhc2foodextended.bananajellysandwichitem": "Сэндвич с банановым желе",
+"item.pamhc2foodextended.datejellysandwichitem": "Сэндвич с финиковым желе",
+"item.pamhc2foodextended.dragonfruitjellysandwichitem": "Сэндвич с желе из дракольего фрукта",
+"item.pamhc2foodextended.figjellysandwichitem": "Сэндвич с фиговым желе",
+"item.pamhc2foodextended.grapefruitjellysandwichitem": "Сэндвич с грейпфрутовым желе",
+"item.pamhc2foodextended.mangojellysandwichitem": "Сэндвич с манговым желе",
+"item.pamhc2foodextended.papayajellysandwichitem": "Сэндвич с желе из папайи",
+"item.pamhc2foodextended.persimmonjellysandwichitem": "Сэндвич с желе из хурмы",
+"item.pamhc2foodextended.pomegranatejellysandwichitem": "Сэндвич с гранатовым желе",
+"item.pamhc2foodextended.starfruitjellysandwichitem": "Сэндвич с желе из карамболы",
+"item.pamhc2foodextended.breadfruitjellysandwichitem": "Сэндвич с желе из хлебного фрукта",
+"item.pamhc2foodextended.jackfruitjellysandwichitem": "Сэндвич с желе из джекфрута",
+"item.pamhc2foodextended.guavajellysandwichitem": "Сэндвич с желе из гуавы",
+"item.pamhc2foodextended.lycheejellysandwichitem": "Сэндвич с желе из личи",
+"item.pamhc2foodextended.passionfruitjellysandwichitem": "Сэндвич с желе из маракуйи",
+"item.pamhc2foodextended.rambutanjellysandwichitem": "Сэндвич с рамбутановым желе",
+"item.pamhc2foodextended.tamarindjellysandwichitem": "Сэндвич с тамариндовым желе",
+//Berry Fruits 2
+"item.pamhc2foodextended.gooseberryjellysandwichitem": "Сэндвич с крыжовниковым желе",
+//Not Tasty Fruits 1
+"item.pamhc2foodextended.durianjellysandwichitem": "Сэндвич с дуриановым желе",
+"item.pamhc2foodextended.lemonjellysandwichitem": "Сэндвич с лимонным желе",
+"item.pamhc2foodextended.limejellysandwichitem": "Сэндвич с лаймовым желе"
+}
