@@ -1,10 +1,6 @@
 {
 	"itemGroup.pamhc2foodextended": "Pam's HarvestCraft 2 - Дополнительная еда",
 
-	
-	//tools
-//"item.pamhc2foodextended.bakewareitem": "Bakeware"
-
 //crops
 //chilipepper
 "item.pamhc2foodextended.hotsauceitem": "Острый соус",
@@ -43,6 +39,7 @@
 "item.pamhc2foodextended.pecanbutteritem": "Масло из ореха пекан",
 "item.pamhc2foodextended.pistachiobutteritem": "Фисташковое масло",
 "item.pamhc2foodextended.walnutbutteritem": "Ореховое масло",
+"item.pamhc2foodextended.sunflowerseedsbutteritem": "Подсолнечное масло",
 
 //Tofu Meats
 "item.pamhc2foodextended.rawtofabbititem": "Сырая тофу-крольчатина",
@@ -158,6 +155,7 @@
 
 //fruits 4
 //temperate
+//apple version in Food Core							
 "item.pamhc2foodextended.cherryjuiceitem": "Вишневый сок",
 "item.pamhc2foodextended.orangejuiceitem": "Апельсиновый сок",
 "item.pamhc2foodextended.peachjuiceitem": "Персиковый сок",
@@ -214,6 +212,7 @@
 
 //fruits 4
 //temperate
+//apple version in Food Core							
 "item.pamhc2foodextended.cherryjellyitem": "Вишневое желе",
 "item.pamhc2foodextended.orangejellyitem": "Апельсиновое желе",
 "item.pamhc2foodextended.peachjellyitem": "Персиковое желе",
@@ -270,6 +269,7 @@
 
 //fruits 4
 //temperate
+//apple version in Food Core							
 "item.pamhc2foodextended.cherrysmoothieitem": "Вишневый смузи",
 "item.pamhc2foodextended.orangesmoothieitem": "Апельсиновый смузи",
 "item.pamhc2foodextended.peachsmoothieitem": "Персиковый смузи",
@@ -326,6 +326,7 @@
 
 //fruits 4
 //temperate
+//apple version in Food Core										
 "item.pamhc2foodextended.cherrypieitem": "Вишневый пирог",
 "item.pamhc2foodextended.orangepieitem": "Апельсиновый пирог",
 "item.pamhc2foodextended.peachpieitem": "Персиковый пирог",
@@ -382,6 +383,7 @@
 
 //fruits 4
 //temperate
+"item.pamhc2foodextended.applejellytoastitem": "Тост с яблочным желе",
 "item.pamhc2foodextended.cherryjellytoastitem": "Тост с вишневым желе",
 "item.pamhc2foodextended.orangejellytoastitem": "Тост с апельсиноввым желе",
 "item.pamhc2foodextended.peachjellytoastitem": "Тост с персиковым желе",
@@ -438,6 +440,7 @@
 
 //fruits 4
 //temperate
+"item.pamhc2foodextended.appleyogurtitem": "Яблочный йогурт",
 "item.pamhc2foodextended.cherryyogurtitem": "Вишневый йогурт",
 "item.pamhc2foodextended.orangeyogurtitem": "Апельсиновый йогурт",
 "item.pamhc2foodextended.peachyogurtitem": "Персиковый йогурт",
@@ -494,6 +497,7 @@
 
 //fruits 4
 //temperate
+"item.pamhc2foodextended.applejellysandwichitem": "Сэндвич с яблочным желе",
 "item.pamhc2foodextended.cherryjellysandwichitem": "Сэндвич с вишневым желе",
 "item.pamhc2foodextended.orangejellysandwichitem": "Сэндвич с апельсиноввым желе",
 "item.pamhc2foodextended.peachjellysandwichitem": "Сэндвич с персиковым желе",
