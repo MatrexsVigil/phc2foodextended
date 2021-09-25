@@ -1,0 +1,523 @@
+{
+    "itemGroup.pamhc2foodextended": "Pam's HarvestCraft 2 - Food Extended",
+    
+    // tools
+    
+    // "item.pamhc2foodextended.bakewareitem": "Bakeware"
+    
+    // crops
+    
+    // chilipepper
+    "item.pamhc2foodextended.hotsauceitem": "Ostry sos",
+    
+    // cucumber
+    "item.pamhc2foodextended.relishitem": "Sos ogórkowy",
+    
+    // tomato
+    "item.pamhc2foodextended.ketchupitem": "u",
+    
+    // mustard
+    "item.pamhc2foodextended.mustarditem": "Musztarda",
+    
+    // sesame seeds
+    "item.pamhc2foodextended.sesameoilitem": "Olej sezamowy",
+    
+    // soybean
+    "item.pamhc2foodextended.soysauceitem": "Sos sojowy",
+    "item.pamhc2foodextended.soymilkitem": "Mleko sojowe",
+    "item.pamhc2foodextended.silkentofuitem": "Delikatne tofu",
+    "item.pamhc2foodextended.firmtofuitem": "Twarde tofu",
+    
+    // trees
+    
+    // temperate
+    
+    // warm
+    
+    // peppercorn
+    "item.pamhc2foodextended.blackpepperitem": "Pieprz czarny",
+    "item.pamhc2foodextended.saltandpepperitem": "Sól i pieprz",
+    
+    // cold
+    
+    // mushrooms
+    "item.pamhc2foodextended.mushroomoilitem": "Olej grzybowy",
+    
+    // NUT BUTTERS
+    "item.pamhc2foodextended.almondbutteritem": "Masło migdałowe",
+    "item.pamhc2foodextended.cashewbutteritem": "Masło z orzechów nerkowca",
+    "item.pamhc2foodextended.chestnutbutteritem": "Masło kasztanowe",
+    "item.pamhc2foodextended.hazelnutbutteritem": "Masło z orzechów laskowych",
+    "item.pamhc2foodextended.peanutbutteritem": "Masło z orzechów ziemnych",
+    "item.pamhc2foodextended.pecanbutteritem": "Masło pekanowe",
+    "item.pamhc2foodextended.pistachiobutteritem": "Masło pistacjowe",
+    "item.pamhc2foodextended.walnutbutteritem": "Masło z orzecha włoskiego",
+    
+    // Tofu Meats
+    "item.pamhc2foodextended.rawtofabbititem": "Królik z tofu",
+    "item.pamhc2foodextended.rawtofaconitem": "Boczek z tofu",
+    "item.pamhc2foodextended.rawtofeakitem": "Wołowina z tofu",
+    "item.pamhc2foodextended.rawtofickenitem": "Kurczak z tofu",
+    "item.pamhc2foodextended.rawtofishitem": "Ryba z tofu",
+    "item.pamhc2foodextended.rawtofuttonitem": "Baranina z tofu",
+    
+    "item.pamhc2foodextended.cookedtofabbititem": "Pieczony królik z tofu",
+    "item.pamhc2foodextended.cookedtofaconitem": "Pieczony boczek z tofu",
+    "item.pamhc2foodextended.cookedtofeakitem": "Pieczona wołowina z tofu",
+    "item.pamhc2foodextended.cookedtofickenitem": "Pieczony kurczak z tofu",
+    "item.pamhc2foodextended.cookedtofishitem": "Pieczona ryba z tofu",
+    "item.pamhc2foodextended.cookedtofuttonitem": "Pieczona baranina z tofu",
+    
+    // Taco Italian Update
+    "item.pamhc2foodextended.anchovypepperonipizzaitem": "Pizza z peperoni i sardelami",
+    "item.pamhc2foodextended.bbqsauceitem": "Sos BBQ",
+    "item.pamhc2foodextended.bbqchickenpizzaitem": "Pizza z kurczakiem BBQ",
+    "item.pamhc2foodextended.beansandriceitem": "Ryż z fasolą",
+    "item.pamhc2foodextended.chimichangaitem": "Chimichanga",
+    "item.pamhc2foodextended.chipsandsalsaitem": "Nachosy z salsą",
+    "item.pamhc2foodextended.cornmealitem": "Mąka kukurydziana",
+    "item.pamhc2foodextended.deluxenachoesitem": "Luksusowe nachosy",
+    "item.pamhc2foodextended.enchiladaitem": "Enchilada",
+    "item.pamhc2foodextended.fiestacornsaladitem": "Imprezowa sałatka kukurydziana",
+    "item.pamhc2foodextended.fishtacoitem": "Taco z rybą",
+    "item.pamhc2foodextended.garlicbreaditem": "Pieczywo czosnkowe",
+    "item.pamhc2foodextended.garlicchickenitem": "Kurczak z czosnkiem",
+    "item.pamhc2foodextended.garlicmashedpotatoesitem": "Tłuczone ziemniaki z czosnkiem",
+    "item.pamhc2foodextended.hamandpineapplepizzaitem": "Pizza hawajska",
+    "item.pamhc2foodextended.meatfeastpizzaitem": "Pizza mięsna",
+    "item.pamhc2foodextended.nachoesitem": "Nachosy",
+    "item.pamhc2foodextended.pepperoniitem": "Peperoni",
+    "item.pamhc2foodextended.pepperonipizzaitem": "Pizza z peperoni",
+    "item.pamhc2foodextended.pizzasliceitem": "Kawałek pizzy",
+    "item.pamhc2foodextended.quesadillaitem": "Quesadilla",
+    "item.pamhc2foodextended.refriedbeansitem": "Rozgnieciona fasola",
+    "item.pamhc2foodextended.sausageitem": "Kiełbasa",
+    "item.pamhc2foodextended.salsaitem": "Salsa",
+    "item.pamhc2foodextended.spagettiandmeatballsitem": "Spaghetti z mięsem",
+    "item.pamhc2foodextended.spagettiitem": "Spaghetti",
+    "item.pamhc2foodextended.spaghettidinneritem": "Danie spaghetti",
+    "item.pamhc2foodextended.stuffedchilipeppersitem": "Faszerowane papryczki chili",
+    "item.pamhc2foodextended.supremepizzaitem": "Wybitna pizza",
+    "item.pamhc2foodextended.tacoitem": "Taco",
+    "item.pamhc2foodextended.tortillachipsitem": "Nachosy",
+    "item.pamhc2foodextended.tortillaitem": "Torilla",
+    
+    // Junk Food Update
+    "item.pamhc2foodextended.bbqpotatochipsitem": "Chipsy BBQ",
+    "item.pamhc2foodextended.candiedgingeritem": "Kandyzowany imbir",
+    "item.pamhc2foodextended.candiedlemonitem": "Kandyzowana cytryna",
+    "item.pamhc2foodextended.candiedpecansitem": "Kandyzowany pekan",
+    "item.pamhc2foodextended.candiedsweetpotatoesitem": "Kandyzowany batat",
+    "item.pamhc2foodextended.candiedwalnutsitem": "Kandyzowane orzechy włoskie",
+    "item.pamhc2foodextended.cheddarandsourcreampotatochipsitem": "Chipsy serowo-śmietanowe",
+    "item.pamhc2foodextended.cherrysodaitem": "Wiśniowy napój gazowany",
+    "item.pamhc2foodextended.chilichocolateitem": "Czekolada z chili",
+    "item.pamhc2foodextended.chipsanddipitem": "Chipsy z sosem",
+    "item.pamhc2foodextended.chocolatecherryitem": "Wiśnia w czekoladzie",
+    "item.pamhc2foodextended.chocolatecoconutbaritem": "Czekolada z kokosem",
+    "item.pamhc2foodextended.chocolateorangeitem": "Pomarańcza w czekoladzie",
+    "item.pamhc2foodextended.chocolatepeanutbaritem": "Czekolada z orzechami ziemnymi",
+    "item.pamhc2foodextended.chocolatestrawberryitem": "Truskawka w czekoladzie",
+    "item.pamhc2foodextended.colasodaitem": "Napój Cola",
+    "item.pamhc2foodextended.cornchipsitem": "Chipsy kukurydziane",
+    "item.pamhc2foodextended.cottoncandyitem": "Wata cukrowa",
+    "item.pamhc2foodextended.crispyricepuffbarsitem": "Chrupiące wafle ryżowe",
+    "item.pamhc2foodextended.energydrinkitem": "Napój energetyczny",
+    "item.pamhc2foodextended.gingersodaitem": "Imbirowy napój gazowany",
+    "item.pamhc2foodextended.grapefruitsodaitem": "Grejpfrutowy napój gazowany",
+    "item.pamhc2foodextended.grapesodaitem": "Winogronowy napój gazowany",
+    "item.pamhc2foodextended.hazelnutchocolateitem": "Czekolada z orzechami laskowymi",
+    "item.pamhc2foodextended.lemonlimesodaitem": "Lemoniada gazowana",
+    "item.pamhc2foodextended.maplecandiedbaconitem": "Kandyzowany bekon z syropem klonowym",
+    "item.pamhc2foodextended.marzipanitem": "Marcepan",
+    "item.pamhc2foodextended.orangesodaitem": "Pomarańczowy napój gazowany",
+    "item.pamhc2foodextended.peanutbuttercupitem": "Babeczka z masła orzechowego",
+    "item.pamhc2foodextended.peppermintitem": "Miętówka",
+    "item.pamhc2foodextended.popcornitem": "",
+    "item.pamhc2foodextended.pralinesitem": "Praliny",
+    "item.pamhc2foodextended.rootbeerfloatitem": "Piwo korzenne z lodami",
+    "item.pamhc2foodextended.rootbeersodaitem": "Gazowane piwo korzenne",
+    "item.pamhc2foodextended.sesamesnapsitem": "Wafelki sezamowe",
+    "item.pamhc2foodextended.sourcreamandonionpotatochipsitem": "Chipsy śmietanowo-cebulowe",
+    "item.pamhc2foodextended.strawberrysodaitem": "Truskawkowy napój gazowany",
+    "item.pamhc2foodextended.theatreboxitem": "Popcorn kinowy",
+    "item.pamhc2foodextended.ediblerootitem": "Jadalny korzeń",
+    
+    // JUICES
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberryjuiceitem": "Sok jeżynowy",
+    "item.pamhc2foodextended.blueberryjuiceitem": "Sok z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruitjuiceitem": "Sok z owocu kaktusa",
+    "item.pamhc2foodextended.candleberryjuiceitem": "Sok z woskownicy",
+    "item.pamhc2foodextended.cranberryjuiceitem": "Sok żurawinowy",
+    "item.pamhc2foodextended.elderberryjuiceitem": "Sok z czarnego bzu",
+    "item.pamhc2foodextended.huckleberryjuiceitem": "Sok z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberryjuiceitem": "Sok z owocu jałowca",
+    "item.pamhc2foodextended.mulberryjuiceitem": "Sok morwowy",
+    "item.pamhc2foodextended.raspberryjuiceitem": "Sok malinowy",
+    "item.pamhc2foodextended.strawberryjuiceitem": "Sok truskawkowy",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupejuiceitem": "Sok z kantalupy",
+    "item.pamhc2foodextended.grapejuiceitem": "Sok z winogron",
+    "item.pamhc2foodextended.greengrapejuiceitem": "Sok z zielonych winogron",
+    "item.pamhc2foodextended.kiwijuiceitem": "Sok z kiwi",
+    "item.pamhc2foodextended.pineapplejuiceitem": "Sok ananasowy",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherryjuiceitem": "Sok wiśniowy",
+    "item.pamhc2foodextended.orangejuiceitem": "Sok pomarańczowy",
+    "item.pamhc2foodextended.peachjuiceitem": "Sok brzoskwiniowy",
+    "item.pamhc2foodextended.pearjuiceitem": "Sok gruszkowy",
+    "item.pamhc2foodextended.plumjuiceitem": "Sok śliwkowy",
+    "item.pamhc2foodextended.pawpawjuiceitem": "Sok z melonowca",
+    "item.pamhc2foodextended.soursopjuiceitem": "Sok z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotjuiceitem": "Sok morelowy",
+    "item.pamhc2foodextended.bananajuiceitem": "Sok bananowy",
+    "item.pamhc2foodextended.datejuiceitem": "Sok daktylowy",
+    "item.pamhc2foodextended.dragonfruitjuiceitem": "Sok ze smoczego owocu",
+    "item.pamhc2foodextended.figjuiceitem": "Sok figowy",
+    "item.pamhc2foodextended.grapefruitjuiceitem": "Sok grejpfrutowy",
+    "item.pamhc2foodextended.mangojuiceitem": "Sok z mango",
+    "item.pamhc2foodextended.papayajuiceitem": "Sok papajowy",
+    "item.pamhc2foodextended.persimmonjuiceitem": "Sok persymonowy",
+    "item.pamhc2foodextended.pomegranatejuiceitem": "Sok granatowy",
+    "item.pamhc2foodextended.starfruitjuiceitem": "Sok z karamboli",
+    "item.pamhc2foodextended.breadfruitjuiceitem": "Sok z owocu chlebowego",
+    "item.pamhc2foodextended.jackfruitjuiceitem": "Sok z chlebowca",
+    "item.pamhc2foodextended.guavajuiceitem": "Sok z gujawy",
+    "item.pamhc2foodextended.lycheejuiceitem": "Sok z liczi",
+    "item.pamhc2foodextended.passionfruitjuiceitem": "Sok z marakuji",
+    "item.pamhc2foodextended.rambutanjuiceitem": "Sok z jagodziana",
+    "item.pamhc2foodextended.tamarindjuiceitem": "Sok z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberryjuiceitem": "Sok agrestowy",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.durianjuiceitem": "Sok z duriana",
+    "item.pamhc2foodextended.lemonjuiceitem": "Sok cytrynowy",
+    "item.pamhc2foodextended.limejuiceitem": "Sok limonkowy",
+    
+    // JELLY
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberryjellyitem": "Dżem jeżynowy",
+    "item.pamhc2foodextended.blueberryjellyitem": "Dżem z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruitjellyitem": "Dżem z owocu kaktusa",
+    "item.pamhc2foodextended.candleberryjellyitem": "Dżem z woskownicy",
+    "item.pamhc2foodextended.cranberryjellyitem": "Dżem żurawinowy",
+    "item.pamhc2foodextended.elderberryjellyitem": "Dżem z czarnego bzu",
+    "item.pamhc2foodextended.huckleberryjellyitem": "Dżem z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberryjellyitem": "Dżem z owocu jałowca",
+    "item.pamhc2foodextended.mulberryjellyitem": "Dżem z morwy",
+    "item.pamhc2foodextended.raspberryjellyitem": "Dżem malinowy",
+    "item.pamhc2foodextended.strawberryjellyitem": "Dżem truskawkowy",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupejellyitem": "Dżem z kantalupy",
+    "item.pamhc2foodextended.grapejellyitem": "Dżem z winogron",
+    "item.pamhc2foodextended.greengrapejellyitem": "Dżem z zielonych winogron",
+    "item.pamhc2foodextended.kiwijellyitem": "Dżem z kiwi",
+    "item.pamhc2foodextended.pineapplejellyitem": "Dżem ananasowy",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherryjellyitem": "Dżem wiśniowy",
+    "item.pamhc2foodextended.orangejellyitem": "Dżem pomarańczowy",
+    "item.pamhc2foodextended.peachjellyitem": "Dżem brzoskwiniowy",
+    "item.pamhc2foodextended.pearjellyitem": "Dżem gruszkowy",
+    "item.pamhc2foodextended.plumjellyitem": "Dżem śliwkowy",
+    "item.pamhc2foodextended.pawpawjellyitem": "Dżem z melonowca",
+    "item.pamhc2foodextended.soursopjellyitem": "Dżem z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotjellyitem": "Dżem morelowy",
+    "item.pamhc2foodextended.bananajellyitem": "Dżem bananowy",
+    "item.pamhc2foodextended.datejellyitem": "Dżem daktylowy",
+    "item.pamhc2foodextended.dragonfruitjellyitem": "Dżem ze smoczego owocu",
+    "item.pamhc2foodextended.figjellyitem": "Dżem figowy",
+    "item.pamhc2foodextended.grapefruitjellyitem": "Dżem grejpfrutowy",
+    "item.pamhc2foodextended.mangojellyitem": "Dżem z mango",
+    "item.pamhc2foodextended.papayajellyitem": "Dżem z papaji",
+    "item.pamhc2foodextended.persimmonjellyitem": "Dżem persymonowy",
+    "item.pamhc2foodextended.pomegranatejellyitem": "Dżem granatowy",
+    "item.pamhc2foodextended.starfruitjellyitem": "Dżem z owocu karamboli",
+    "item.pamhc2foodextended.breadfruitjellyitem": "Dżem z owocu drzewa chelbowego",
+    "item.pamhc2foodextended.jackfruitjellyitem": "Dżem z owocu chlebowca",
+    "item.pamhc2foodextended.guavajellyitem": "Dżem z gujawy",
+    "item.pamhc2foodextended.lycheejellyitem": "Dżem z liczi",
+    "item.pamhc2foodextended.passionfruitjellyitem": "Dżem z marakuji",
+    "item.pamhc2foodextended.rambutanjellyitem": "Dżem z jagodzianu",
+    "item.pamhc2foodextended.tamarindjellyitem": "Dżem z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberryjellyitem": "Dżem agrestowy",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.durianjellyitem": "Dżem z durianu",
+    "item.pamhc2foodextended.lemonjellyitem": "Dżem cytrynowy",
+    "item.pamhc2foodextended.limejellyitem": "Dżem limonkowy",
+    
+    // SMOOTHIE
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberrysmoothieitem": "Smoothie jeżynowe",
+    "item.pamhc2foodextended.blueberrysmoothieitem": "Smoothie z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruitsmoothieitem": "Smoothie z owocu kaktusa",
+    "item.pamhc2foodextended.candleberrysmoothieitem": "Smoothie z woskownicy",
+    "item.pamhc2foodextended.cranberrysmoothieitem": "Smoothie żurawinowe",
+    "item.pamhc2foodextended.elderberrysmoothieitem": "Smoothie z czarnego bzu",
+    "item.pamhc2foodextended.huckleberrysmoothieitem": "Smoothie z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberrysmoothieitem": "Smoothie z owocu jałowca",
+    "item.pamhc2foodextended.mulberrysmoothieitem": "Smoothie z morwy",
+    "item.pamhc2foodextended.raspberrysmoothieitem": "Smoothie malinowe",
+    "item.pamhc2foodextended.strawberrysmoothieitem": "Smoothie truskawkowe",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupesmoothieitem": "Smoothie z kantalupy",
+    "item.pamhc2foodextended.grapesmoothieitem": "Smoothie z winogron",
+    "item.pamhc2foodextended.greengrapesmoothieitem": "Smoothie z zielonych winogron",
+    "item.pamhc2foodextended.kiwismoothieitem": "Smoothie z kiwi",
+    "item.pamhc2foodextended.pineapplesmoothieitem": "Smoothie ananasowe",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherrysmoothieitem": "Smoothie wiśniowe",
+    "item.pamhc2foodextended.orangesmoothieitem": "Smoothie pomarańczowe",
+    "item.pamhc2foodextended.peachsmoothieitem": "Smoothie brzoskwiniowe",
+    "item.pamhc2foodextended.pearsmoothieitem": "Smoothie gruszkowe",
+    "item.pamhc2foodextended.plumsmoothieitem": "Smoothie śliwkowe",
+    "item.pamhc2foodextended.pawpawsmoothieitem": "Smoothie z melonowca",
+    "item.pamhc2foodextended.soursopsmoothieitem": "Smoothie z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotsmoothieitem": "Smoothie morelowe",
+    "item.pamhc2foodextended.bananasmoothieitem": "Smoothie bananowe",
+    "item.pamhc2foodextended.datesmoothieitem": "Smoothie daktylowe",
+    "item.pamhc2foodextended.dragonfruitsmoothieitem": "Smoothie ze smoczego owocu",
+    "item.pamhc2foodextended.figsmoothieitem": "Smoothie figowe",
+    "item.pamhc2foodextended.grapefruitsmoothieitem": "Smoothie grejpfrutowe",
+    "item.pamhc2foodextended.mangosmoothieitem": "Smoothie z mango",
+    "item.pamhc2foodextended.papayasmoothieitem": "Smoothie z papaji",
+    "item.pamhc2foodextended.persimmonsmoothieitem": "Smoothie persymonowe",
+    "item.pamhc2foodextended.pomegranatesmoothieitem": "Smoothie granatowe",
+    "item.pamhc2foodextended.starfruitsmoothieitem": "Smoothie z owocu karamboli",
+    "item.pamhc2foodextended.breadfruitsmoothieitem": "Smoothie z owocu drzewa chelbowego",
+    "item.pamhc2foodextended.jackfruitsmoothieitem": "Smoothie z owocu chlebowca",
+    "item.pamhc2foodextended.guavasmoothieitem": "Smoothie z gujawy",
+    "item.pamhc2foodextended.lycheesmoothieitem": "Smoothie z liczi",
+    "item.pamhc2foodextended.passionfruitsmoothieitem": "Smoothie z marakuji",
+    "item.pamhc2foodextended.rambutansmoothieitem": "Smoothie z jagodzianu",
+    "item.pamhc2foodextended.tamarindsmoothieitem": "Smoothie z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberrysmoothieitem": "Smoothie agrestowe",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.duriansmoothieitem": "Smoothie z durianu",
+    "item.pamhc2foodextended.lemonsmoothieitem": "Smoothie cytrynowe",
+    "item.pamhc2foodextended.limesmoothieitem": "Smoothie limonkowe",
+    
+    // JELLY TOAST
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberryjellytoastitem": "Tost z dżemem jeżynowym",
+    "item.pamhc2foodextended.blueberryjellytoastitem": "Tost z dżemem z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruitjellytoastitem": "Tost z dżemem z owocu kaktusa",
+    "item.pamhc2foodextended.candleberryjellytoastitem": "Tost z dżemem z woskownicy",
+    "item.pamhc2foodextended.cranberryjellytoastitem": "Tost z dżemem żurawinowym",
+    "item.pamhc2foodextended.elderberryjellytoastitem": "Tost z dżemem z czarnego bzu",
+    "item.pamhc2foodextended.huckleberryjellytoastitem": "Tost z dżemem z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberryjellytoastitem": "Tost z dżemem z owocu jałowca",
+    "item.pamhc2foodextended.mulberryjellytoastitem": "Tost z dżemem z morwy",
+    "item.pamhc2foodextended.raspberryjellytoastitem": "Tost z dżemem malinowym",
+    "item.pamhc2foodextended.strawberryjellytoastitem": "Tost z dżemem truskawkowym",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupejellytoastitem": "Tost z dżemem z kantalupy",
+    "item.pamhc2foodextended.grapejellytoastitem": "Tost z dżemem z winogron",
+    "item.pamhc2foodextended.greengrapejellytoastitem": "Tost z dżemem z zielonych winogron",
+    "item.pamhc2foodextended.kiwijellytoastitem": "Tost z dżemem z kiwi",
+    "item.pamhc2foodextended.pineapplejellytoastitem": "Tost z dżemem ananasowym",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherryjellytoastitem": "Tost z dżemem wiśniowym",
+    "item.pamhc2foodextended.orangejellytoastitem": "Tost z dżemem pomarańczowym",
+    "item.pamhc2foodextended.peachjellytoastitem": "Tost z dżemem brzoskwiniowym",
+    "item.pamhc2foodextended.pearjellytoastitem": "Tost z dżemem gruszkowym",
+    "item.pamhc2foodextended.plumjellytoastitem": "Tost z dżemem śliwkowym",
+    "item.pamhc2foodextended.pawpawjellytoastitem": "Tost z dżemem z melonowca",
+    "item.pamhc2foodextended.soursopjellytoastitem": "Tost z dżemem z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotjellytoastitem": "Tost z dżemem morelowym",
+    "item.pamhc2foodextended.bananajellytoastitem": "Tost z dżemem bananowym",
+    "item.pamhc2foodextended.datejellytoastitem": "Tost z dżemem daktylowym",
+    "item.pamhc2foodextended.dragonfruitjellytoastitem": "Tost z dżemem ze smoczego owocu",
+    "item.pamhc2foodextended.figjellytoastitem": "Tost z dżemem figowym",
+    "item.pamhc2foodextended.grapefruitjellytoastitem": "Tost z dżemem grejpfrutowym",
+    "item.pamhc2foodextended.mangojellytoastitem": "Tost z dżemem z mango",
+    "item.pamhc2foodextended.papayajellytoastitem": "Tost z dżemem z papaji",
+    "item.pamhc2foodextended.persimmonjellytoastitem": "Tost z dżemem persymonowym",
+    "item.pamhc2foodextended.pomegranatejellytoastitem": "Tost z dżemem granatowym",
+    "item.pamhc2foodextended.starfruitjellytoastitem": "Tost z dżemem z owocu karamboli",
+    "item.pamhc2foodextended.breadfruitjellytoastitem": "Tost z dżemem z owocu drzewa chelbowego",
+    "item.pamhc2foodextended.jackfruitjellytoastitem": "Tost z dżemem z owocu chlebowca",
+    "item.pamhc2foodextended.guavajellytoastitem": "Tost z dżemem z gujawy",
+    "item.pamhc2foodextended.lycheejellytoastitem": "Tost z dżemem z liczi",
+    "item.pamhc2foodextended.passionfruitjellytoastitem": "Tost z dżemem z marakuji",
+    "item.pamhc2foodextended.rambutanjellytoastitem": "Tost z dżemem z jagodzianu",
+    "item.pamhc2foodextended.tamarindjellytoastitem": "Tost z dżemem z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberryjellytoastitem": "Tost z dżemem agrestowym",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.durianjellytoastitem": "Tost z dżemem z durianu",
+    "item.pamhc2foodextended.lemonjellytoastitem": "Tost z dżemem cytrynowym",
+    "item.pamhc2foodextended.limejellytoastitem": "Tost z dżemem limonkowym",
+    
+    // YOGURT
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberryyogurtitem": "Jogurt jeżynowy",
+    "item.pamhc2foodextended.blueberryyogurtitem": "Jogurt z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruityogurtitem": "Jogurt z owocu kaktusa",
+    "item.pamhc2foodextended.candleberryyogurtitem": "Jogurt z woskownicy",
+    "item.pamhc2foodextended.cranberryyogurtitem": "Jogurt żurawinowy",
+    "item.pamhc2foodextended.elderberryyogurtitem": "Jogurt z czarnego bzu",
+    "item.pamhc2foodextended.huckleberryyogurtitem": "Jogurt z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberryyogurtitem": "Jogurt z owocu jałowca",
+    "item.pamhc2foodextended.mulberryyogurtitem": "Jogurt z morwy",
+    "item.pamhc2foodextended.raspberryyogurtitem": "Jogurt malinowy",
+    "item.pamhc2foodextended.strawberryyogurtitem": "Jogurt truskawkowy",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupeyogurtitem": "Jogurt z kantalupy",
+    "item.pamhc2foodextended.grapeyogurtitem": "Jogurt z winogron",
+    "item.pamhc2foodextended.greengrapeyogurtitem": "Jogurt z zielonych winogron",
+    "item.pamhc2foodextended.kiwiyogurtitem": "Jogurt z kiwi",
+    "item.pamhc2foodextended.pineappleyogurtitem": "Jogurt ananasowy",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherryyogurtitem": "Jogurt wiśniowy",
+    "item.pamhc2foodextended.orangeyogurtitem": "Jogurt pomarańczowy",
+    "item.pamhc2foodextended.peachyogurtitem": "Jogurt brzoskwiniowy",
+    "item.pamhc2foodextended.pearyogurtitem": "Jogurt gruszkowy",
+    "item.pamhc2foodextended.plumyogurtitem": "Jogurt śliwkowy",
+    "item.pamhc2foodextended.pawpawyogurtitem": "Jogurt z melonowca",
+    "item.pamhc2foodextended.soursopyogurtitem": "Jogurt z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotyogurtitem": "Jogurt morelowy",
+    "item.pamhc2foodextended.bananayogurtitem": "Jogurt bananowy",
+    "item.pamhc2foodextended.dateyogurtitem": "Jogurt daktylowy",
+    "item.pamhc2foodextended.dragonfruityogurtitem": "Jogurt ze smoczego owocu",
+    "item.pamhc2foodextended.figyogurtitem": "Jogurt figowy",
+    "item.pamhc2foodextended.grapefruityogurtitem": "Jogurt grejpfrutowy",
+    "item.pamhc2foodextended.mangoyogurtitem": "Jogurt z mango",
+    "item.pamhc2foodextended.papayayogurtitem": "Jogurt z papaji",
+    "item.pamhc2foodextended.persimmonyogurtitem": "Jogurt persymonowy",
+    "item.pamhc2foodextended.pomegranateyogurtitem": "Jogurt granatowy",
+    "item.pamhc2foodextended.starfruityogurtitem": "Jogurt z owocu karamboli",
+    "item.pamhc2foodextended.breadfruityogurtitem": "Jogurt z owocu drzewa chelbowego",
+    "item.pamhc2foodextended.jackfruityogurtitem": "Jogurt z owocu chlebowca",
+    "item.pamhc2foodextended.guavayogurtitem": "Jogurt z gujawy",
+    "item.pamhc2foodextended.lycheeyogurtitem": "Jogurt z liczi",
+    "item.pamhc2foodextended.passionfruityogurtitem": "Jogurt z marakuji",
+    "item.pamhc2foodextended.rambutanyogurtitem": "Jogurt z jagodzianu",
+    "item.pamhc2foodextended.tamarindyogurtitem": "Jogurt z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberryyogurtitem": "Jogurt agrestowy",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.durianyogurtitem": "Jogurt z durianu",
+    "item.pamhc2foodextended.lemonyogurtitem": "Jogurt cytrynowy",
+    "item.pamhc2foodextended.limeyogurtitem": "Jogurt limonkowy",
+    
+    // JELLY SANDWICHES
+    
+    // crops
+    
+    // berry 2
+    "item.pamhc2foodextended.blackberryjellysandwichitem": "Kanapka z dżemem jeżynowym",
+    "item.pamhc2foodextended.blueberryjellysandwichitem": "Kanapka z dżemem z czarnych jagód",
+    "item.pamhc2foodextended.cactusfruitjellysandwichitem": "Kanapka z dżemem z owocu kaktusa",
+    "item.pamhc2foodextended.candleberryjellysandwichitem": "Kanapka z dżemem z woskownicy",
+    "item.pamhc2foodextended.cranberryjellysandwichitem": "Kanapka z dżemem żurawinowym",
+    "item.pamhc2foodextended.elderberryjellysandwichitem": "Kanapka z dżemem z czarnego bzu",
+    "item.pamhc2foodextended.huckleberryjellysandwichitem": "Kanapka z dżemem z borówki amerykańskiej",
+    "item.pamhc2foodextended.juniperberryjellysandwichitem": "Kanapka z dżemem z owocu jałowca",
+    "item.pamhc2foodextended.mulberryjellysandwichitem": "Kanapka z dżemem z morwy",
+    "item.pamhc2foodextended.raspberryjellysandwichitem": "Kanapka z dżemem malinowym",
+    "item.pamhc2foodextended.strawberryjellysandwichitem": "Kanapka z dżemem truskawkowym",
+    
+    // fruit 2
+    "item.pamhc2foodextended.cantaloupejellysandwichitem": "Kanapka z dżemem z kantalupy",
+    "item.pamhc2foodextended.grapejellysandwichitem": "Kanapka z dżemem z winogron",
+    "item.pamhc2foodextended.greengrapejellysandwichitem": "Kanapka z dżemem z zielonych winogron",
+    "item.pamhc2foodextended.kiwijellysandwichitem": "Kanapka z dżemem z kiwi",
+    "item.pamhc2foodextended.pineapplejellysandwichitem": "Kanapka z dżemem ananasowym",
+    
+    // fruits 4
+    
+    // temperate
+    "item.pamhc2foodextended.cherryjellysandwichitem": "Kanapka z dżemem wiśniowym",
+    "item.pamhc2foodextended.orangejellysandwichitem": "Kanapka z dżemem pomarańczowym",
+    "item.pamhc2foodextended.peachjellysandwichitem": "Kanapka z dżemem brzoskwiniowym",
+    "item.pamhc2foodextended.pearjellysandwichitem": "Kanapka z dżemem gruszkowym",
+    "item.pamhc2foodextended.plumjellysandwichitem": "Kanapka z dżemem śliwkowym",
+    "item.pamhc2foodextended.pawpawjellysandwichitem": "Kanapka z dżemem z melonowca",
+    "item.pamhc2foodextended.soursopjellysandwichitem": "Kanapka z dżemem z flaszowca",
+    
+    // warm
+    "item.pamhc2foodextended.apricotjellysandwichitem": "Kanapka z dżemem morelowym",
+    "item.pamhc2foodextended.bananajellysandwichitem": "Kanapka z dżemem bananowym",
+    "item.pamhc2foodextended.datejellysandwichitem": "Kanapka z dżemem daktylowym",
+    "item.pamhc2foodextended.dragonfruitjellysandwichitem": "Kanapka z dżemem ze smoczego owocu",
+    "item.pamhc2foodextended.figjellysandwichitem": "Kanapka z dżemem figowym",
+    "item.pamhc2foodextended.grapefruitjellysandwichitem": "Kanapka z dżemem grejpfrutowym",
+    "item.pamhc2foodextended.mangojellysandwichitem": "Kanapka z dżemem z mango",
+    "item.pamhc2foodextended.papayajellysandwichitem": "Kanapka z dżemem z papaji",
+    "item.pamhc2foodextended.persimmonjellysandwichitem": "Kanapka z dżemem persymonowym",
+    "item.pamhc2foodextended.pomegranatejellysandwichitem": "Kanapka z dżemem granatowym",
+    "item.pamhc2foodextended.starfruitjellysandwichitem": "Kanapka z dżemem z owocu karamboli",
+    "item.pamhc2foodextended.breadfruitjellysandwichitem": "Kanapka z dżemem z owocu drzewa chelbowego",
+    "item.pamhc2foodextended.jackfruitjellysandwichitem": "Kanapka z dżemem z owocu chlebowca",
+    "item.pamhc2foodextended.guavajellysandwichitem": "Kanapka z dżemem z gujawy",
+    "item.pamhc2foodextended.lycheejellysandwichitem": "Kanapka z dżemem z liczi",
+    "item.pamhc2foodextended.passionfruitjellysandwichitem": "Kanapka z dżemem z marakuji",
+    "item.pamhc2foodextended.rambutanjellysandwichitem": "Kanapka z dżemem z jagodzianu",
+    "item.pamhc2foodextended.tamarindjellysandwichitem": "Kanapka z dżemem z owocu tamaryndowca",
+    
+    // Berry Fruits 2
+    "item.pamhc2foodextended.gooseberryjellysandwichitem": "Kanapka z dżemem agrestowym",
+    
+    // Not Tasty Fruits 1
+    "item.pamhc2foodextended.durianjellysandwichitem": "Kanapka z dżemem z durianu",
+    "item.pamhc2foodextended.lemonjellysandwichitem": "Kanapka z dżemem cytrynowym",
+    "item.pamhc2foodextended.limejellysandwichitem": "Kanapka z dżemem limonkowym",
+}
